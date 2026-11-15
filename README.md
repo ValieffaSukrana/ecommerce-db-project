@@ -34,7 +34,8 @@ ecommerce-db-project/
 │   ├── numpy_stats.py       # NumPy ilə statistik təhlil
 │   ├── pandas_analysis.py   # groupby() və pivot_table()
 │   ├── load_to_db.py        # PostgreSQL-ə yükləmə və bütövlük yoxlanışı
-│   └── sales_report.py      # SQL sorğuları, qrafiklər, satış hesabatı
+│   ├── sales_report.py      # SQL sorğuları, qrafiklər, satış hesabatı
+│   └── er_diagram.py        # ER diaqramının şəkli
 ├── reports/
 │   ├── figures/             # PNG qrafiklər
 │   ├── query_results/       # hər SQL sorğusunun nəticəsi (CSV)
@@ -43,7 +44,7 @@ ecommerce-db-project/
 │   ├── numpy_statistics.csv
 │   ├── data_quality_report.csv
 │   └── pandas_analysis.xlsx
-├── docs/                    # yekun hesabat
+├── docs/                    # yekun hesabat (Word və PDF)
 ├── docker-compose.yml
 ├── run_pipeline.py          # bütün mərhələləri ardıcıl icra edir
 ├── requirements.txt
