@@ -1,0 +1,301 @@
+product_id,product_name,category_id,brand,unit_price,stock_quantity,created_at
+1,Koton Geyim #001,3,Koton,35.29,8,2023-05-08
+2,Qanun Kitab #002,6,Qanun,17.48,111,2024-05-29
+3,TEAS Press Kitab #003,6,TEAS Press,27.94,110,2023-01-06
+4,Qanun Kitab #004,6,Qanun,10.55,154,2023-11-20
+5,Decathlon İdman #005,7,Decathlon,60.51,305,2023-05-20
+6,L'Oréal Kosmetika #006,5,L'Oréal,73.21,443,2024-02-07
+7,Philips Məişət texnikası #007,2,Philips,561.32,334,2023-07-16
+8,L'Oréal Kosmetika #008,5,L'Oréal,30.57,489,2023-12-20
+9,Gardena Ev və bağ #009,9,Gardena,87.79,64,2024-03-25
+10,Hasbro Oyuncaq #010,8,Hasbro,58.27,156,2023-03-27
+11,Apple Elektronika #011,1,Apple,664.71,443,2023-09-12
+12,Paşabahçe Ev və bağ #012,9,Paşabahçe,18.37,186,2023-12-22
+13,Lenovo Elektronika #013,1,Lenovo,1327.04,240,2023-07-04
+14,LG Məişət texnikası #014,2,LG,304.96,104,2024-01-04
+15,Hasbro Oyuncaq #015,8,Hasbro,12.13,30,2023-11-01
+16,Nestlé Ərzaq #016,10,Nestlé,25.32,92,2023-11-20
+17,L'Oréal Kosmetika #017,5,L'Oréal,11.79,378,2023-12-21
+18,Arçelik Məişət texnikası #018,2,Arçelik,451.65,175,2023-12-19
+19,IKEA Ev və bağ #019,9,IKEA,137.21,231,2024-04-12
+20,Alatoran Kitab #020,6,Alatoran,17.03,287,2023-09-10
+21,Hasbro Oyuncaq #021,8,Hasbro,17.59,120,2024-01-09
+22,LEGO Oyuncaq #022,8,LEGO,44.38,435,2023-07-13
+23,L'Oréal Kosmetika #023,5,L'Oréal,40.61,134,2024-01-23
+24,Garnier Kosmetika #024,5,Garnier,33.89,362,2023-02-03
+25,Philips Məişət texnikası #025,2,Philips,389.62,280,2023-05-03
+26,Nike Ayaqqabı #026,4,Nike,97.88,391,2023-06-24
+27,Atena Ərzaq #027,10,Atena,9.25,101,2024-05-06
+28,LEGO Oyuncaq #028,8,LEGO,35.48,115,2023-08-11
+29,Skechers Ayaqqabı #029,4,Skechers,140.27,45,2023-09-14
+30,Decathlon İdman #030,7,Decathlon,166.47,383,2023-06-05
+31,Az-Granata Ərzaq #031,10,Az-Granata,9.43,465,2023-03-12
+32,Koton Geyim #032,3,Koton,36.33,425,2023-03-31
+33,Xan Kitab #033,6,Xan,14.23,244,2024-06-26
+34,Puma İdman #034,7,Puma,40.04,146,2023-12-18
+35,TEAS Press Kitab #035,6,TEAS Press,17.26,493,2024-03-18
+36,Arçelik Məişət texnikası #036,2,Arçelik,376.14,243,2023-05-23
+37,Karaca Ev və bağ #037,9,Karaca,98.87,5,2024-06-15
+38,Xiaomi Elektronika #038,1,Xiaomi,504.68,222,2023-04-07
+39,Philips Məişət texnikası #039,2,Philips,1066.77,111,2023-01-03
+40,Arçelik Məişət texnikası #040,2,Arçelik,249.45,322,2023-07-12
+41,Ecco Ayaqqabı #041,4,Ecco,332.31,255,2023-12-26
+42,LG Məişət texnikası #042,2,LG,576.68,247,2023-01-25
+43,Gardena Ev və bağ #043,9,Gardena,96.97,480,2024-05-22
+44,Adidas İdman #044,7,Adidas,60.86,83,2023-02-28
+45,Samsung Elektronika #045,1,Samsung,1932.16,122,2023-10-07
+46,Milla Ərzaq #046,10,Milla,19.57,136,2023-04-10
+47,Adidas Ayaqqabı #047,4,Adidas,48.87,97,2024-03-28
+48,Lenovo Elektronika #048,1,Lenovo,485.64,284,2023-08-21
+49,Atena Ərzaq #049,10,Atena,9.98,26,2024-03-14
+50,L'Oréal Kosmetika #050,5,L'Oréal,14.78,367,2023-03-28
+51,TEAS Press Kitab #051,6,TEAS Press,25.26,461,2024-03-06
+52,Gardena Ev və bağ #052,9,Gardena,90.55,311,2024-04-27
+53,Puma Ayaqqabı #053,4,Puma,110.63,313,2023-09-25
+54,Philips Məişət texnikası #054,2,Philips,454.53,281,2024-03-20
+55,Arçelik Məişət texnikası #055,2,Arçelik,473.13,217,2023-05-29
+56,IKEA Ev və bağ #056,9,IKEA,44.16,60,2024-05-06
+57,Nike Ayaqqabı #057,4,Nike,67.75,298,2023-06-28
+58,L'Oréal Kosmetika #058,5,L'Oréal,36.47,176,2023-10-19
+59,Skechers Ayaqqabı #059,4,Skechers,101.41,125,2024-01-17
+60,Decathlon İdman #060,7,Decathlon,86.4,381,2023-07-04
+61,Maybelline Kosmetika #061,5,Maybelline,24.86,351,2024-03-24
+62,Bakı Kitab Kitab #062,6,Bakı Kitab,31.73,138,2024-01-27
+63,LG Məişət texnikası #063,2,LG,576.77,488,2024-06-25
+64,LEGO Oyuncaq #064,8,LEGO,42.46,468,2023-12-03
+65,Garnier Kosmetika #065,5,Garnier,16.13,337,2023-06-23
+66,Samsung Elektronika #066,1,Samsung,527.56,99,2023-02-11
+67,IKEA Ev və bağ #067,9,IKEA,71.73,277,2023-05-11
+68,Reebok İdman #068,7,Reebok,74.27,386,2024-03-22
+69,Nestlé Ərzaq #069,10,Nestlé,18.25,360,2023-10-23
+70,Atena Ərzaq #070,10,Atena,7.95,179,2024-01-15
+71,Gardena Ev və bağ #071,9,Gardena,32.72,79,2024-01-24
+72,Decathlon İdman #072,7,Decathlon,60.95,244,2024-01-30
+73,Tefal Ev və bağ #073,9,Tefal,60.02,257,2023-09-19
+74,Nivea Kosmetika #074,5,Nivea,30.74,441,2024-04-09
+75,Nike Ayaqqabı #075,4,Nike,73.72,136,2024-02-06
+76,Nivea Kosmetika #076,5,Nivea,26.25,209,2024-03-07
+77,Mango Geyim #077,3,Mango,42.68,345,2023-07-06
+78,Puma İdman #078,7,Puma,17.94,163,2023-02-18
+79,Hasbro Oyuncaq #079,8,Hasbro,60.15,10,2023-11-15
+80,HP Elektronika #080,1,HP,635.93,50,2023-09-27
+81,Dove Kosmetika #081,5,Dove,24.81,326,2024-01-09
+82,Lenovo Elektronika #082,1,Lenovo,535.83,382,2023-07-15
+83,Tefal Ev və bağ #083,9,Tefal,68.88,378,2024-01-10
+84,IKEA Ev və bağ #084,9,IKEA,84.62,128,2023-01-30
+85,Lenovo Elektronika #085,1,Lenovo,1737.55,76,2024-01-15
+86,Chicco Oyuncaq #086,8,Chicco,17.55,234,2023-12-08
+87,Philips Məişət texnikası #087,2,Philips,346.02,349,2024-02-26
+88,HP Elektronika #088,1,HP,364.19,237,2023-05-08
+89,Chicco Oyuncaq #089,8,Chicco,42.94,52,2024-02-29
+90,Atena Ərzaq #090,10,Atena,6.07,423,2023-07-18
+91,Xiaomi Elektronika #091,1,Xiaomi,567.27,494,2023-09-01
+92,Mattel Oyuncaq #092,8,Mattel,27.31,498,2023-09-15
+93,Puma İdman #093,7,Puma,61.16,442,2023-06-14
+94,L'Oréal Kosmetika #094,5,L'Oréal,26.27,413,2023-05-29
+95,Nestlé Ərzaq #095,10,Nestlé,6.89,292,2024-06-11
+96,Nike İdman #096,7,Nike,58.77,296,2023-08-24
+97,Mango Geyim #097,3,Mango,63.82,284,2023-12-19
+98,Nestlé Ərzaq #098,10,Nestlé,10.4,258,2024-05-06
+99,Chicco Oyuncaq #099,8,Chicco,39.43,37,2024-05-13
+100,Bakı Kitab Kitab #100,6,Bakı Kitab,14.12,104,2023-02-02
+101,LEGO Oyuncaq #101,8,LEGO,12.53,52,2023-10-12
+102,Nike Ayaqqabı #102,4,Nike,115.1,320,2024-03-17
+103,Paşabahçe Ev və bağ #103,9,Paşabahçe,56.82,24,2024-01-25
+104,Nike İdman #104,7,Nike,100.05,399,2023-11-19
+105,Adidas Ayaqqabı #105,4,Adidas,71.29,138,2023-07-29
+106,HP Elektronika #106,1,HP,600.77,452,2023-03-02
+107,Playmobil Oyuncaq #107,8,Playmobil,66.6,215,2023-06-15
+108,H&M Geyim #108,3,H&M,27.11,148,2024-04-09
+109,Qanun Kitab #109,6,Qanun,16.6,220,2023-08-08
+110,Adidas İdman #110,7,Adidas,37.69,356,2024-02-06
+111,Maybelline Kosmetika #111,5,Maybelline,35.87,296,2023-04-20
+112,Hasbro Oyuncaq #112,8,Hasbro,43.14,261,2024-03-16
+113,Lenovo Elektronika #113,1,Lenovo,995.64,167,2023-01-19
+114,TEAS Press Kitab #114,6,TEAS Press,11.28,482,2024-02-22
+115,Ecco Ayaqqabı #115,4,Ecco,27.25,191,2023-04-01
+116,Reebok İdman #116,7,Reebok,203.83,492,2023-03-03
+117,H&M Geyim #117,3,H&M,121.95,211,2023-06-24
+118,Playmobil Oyuncaq #118,8,Playmobil,30.07,450,2023-05-30
+119,Adidas Ayaqqabı #119,4,Adidas,117.75,238,2024-02-24
+120,Philips Məişət texnikası #120,2,Philips,488.57,452,2023-05-24
+121,Az-Granata Ərzaq #121,10,Az-Granata,20.58,95,2023-07-02
+122,Apple Elektronika #122,1,Apple,437.55,183,2023-01-03
+123,Apple Elektronika #123,1,Apple,767.98,261,2024-04-01
+124,HP Elektronika #124,1,HP,557.27,453,2023-07-04
+125,Philips Məişət texnikası #125,2,Philips,1130.42,143,2024-05-04
+126,Alatoran Kitab #126,6,Alatoran,8.92,470,2024-01-04
+127,IKEA Ev və bağ #127,9,IKEA,34.69,150,2024-05-30
+128,LG Məişət texnikası #128,2,LG,608.25,298,2024-01-06
+129,Alatoran Kitab #129,6,Alatoran,13.5,114,2023-01-18
+130,Mattel Oyuncaq #130,8,Mattel,27.93,190,2024-01-24
+131,Milla Ərzaq #131,10,Milla,6.64,485,2023-10-02
+132,Xiaomi Elektronika #132,1,Xiaomi,241.28,68,2023-11-19
+133,LG Məişət texnikası #133,2,LG,941.78,291,2023-07-06
+134,Dove Kosmetika #134,5,Dove,47.83,374,2023-10-16
+135,Alatoran Kitab #135,6,Alatoran,14.23,281,2023-04-21
+136,Tefal Ev və bağ #136,9,Tefal,49.44,331,2023-03-21
+137,Nestlé Ərzaq #137,10,Nestlé,8.09,386,2023-01-28
+138,Tefal Ev və bağ #138,9,Tefal,73.89,379,2023-12-25
+139,Playmobil Oyuncaq #139,8,Playmobil,22.02,444,2023-11-05
+140,Garnier Kosmetika #140,5,Garnier,32.45,61,2023-09-17
+141,Mattel Oyuncaq #141,8,Mattel,16.6,2,2023-07-27
+142,Philips Məişət texnikası #142,2,Philips,498.47,414,2023-07-19
+143,Dove Kosmetika #143,5,Dove,20.24,225,2024-04-17
+144,Philips Məişət texnikası #144,2,Philips,198.21,481,2023-04-19
+145,LC Waikiki Geyim #145,3,LC Waikiki,70.57,298,2024-01-04
+146,Lenovo Elektronika #146,1,Lenovo,353.25,300,2023-05-24
+147,Puma Ayaqqabı #147,4,Puma,116.35,422,2024-05-06
+148,Dove Kosmetika #148,5,Dove,13.11,499,2023-08-02
+149,Playmobil Oyuncaq #149,8,Playmobil,34.31,103,2023-01-23
+150,Mattel Oyuncaq #150,8,Mattel,33.05,299,2023-02-13
+151,Maybelline Kosmetika #151,5,Maybelline,10.69,325,2024-05-08
+152,Atena Ərzaq #152,10,Atena,6.82,365,2024-04-05
+153,Gardena Ev və bağ #153,9,Gardena,24.45,154,2023-04-03
+154,Xan Kitab #154,6,Xan,10.17,15,2023-10-27
+155,Alatoran Kitab #155,6,Alatoran,13.45,153,2024-02-16
+156,Adidas İdman #156,7,Adidas,90.86,237,2024-01-18
+157,Beko Məişət texnikası #157,2,Beko,483.64,428,2023-06-05
+158,Qanun Kitab #158,6,Qanun,9.08,55,2024-03-18
+159,Nike Ayaqqabı #159,4,Nike,56.21,356,2023-07-01
+160,Gardena Ev və bağ #160,9,Gardena,53.21,417,2023-08-14
+161,Nestlé Ərzaq #161,10,Nestlé,14.37,144,2023-11-24
+162,Reebok İdman #162,7,Reebok,243.08,14,2023-03-04
+163,Puma İdman #163,7,Puma,49.02,283,2024-02-21
+164,Ecco Ayaqqabı #164,4,Ecco,51.63,138,2023-06-13
+165,Bakı Kitab Kitab #165,6,Bakı Kitab,22.03,214,2023-09-13
+166,Atena Ərzaq #166,10,Atena,9.57,259,2023-02-07
+167,Qanun Kitab #167,6,Qanun,14.23,377,2023-12-05
+168,Hasbro Oyuncaq #168,8,Hasbro,36.21,221,2023-07-06
+169,Adidas İdman #169,7,Adidas,82.98,113,2024-04-28
+170,Nike İdman #170,7,Nike,99.81,13,2024-06-02
+171,Samsung Elektronika #171,1,Samsung,1171.7,265,2023-01-06
+172,Maybelline Kosmetika #172,5,Maybelline,28.69,9,2023-12-12
+173,Nike Ayaqqabı #173,4,Nike,102.59,386,2023-09-05
+174,Az-Granata Ərzaq #174,10,Az-Granata,9.97,423,2023-04-07
+175,Puma İdman #175,7,Puma,113.95,368,2023-03-03
+176,Decathlon İdman #176,7,Decathlon,56.24,245,2024-02-22
+177,Dove Kosmetika #177,5,Dove,54.66,351,2023-10-29
+178,Skechers Ayaqqabı #178,4,Skechers,198.33,51,2023-10-11
+179,Arçelik Məişət texnikası #179,2,Arçelik,937.57,421,2024-04-14
+180,Gardena Ev və bağ #180,9,Gardena,108.64,2,2023-09-23
+181,Hasbro Oyuncaq #181,8,Hasbro,44.62,321,2024-05-13
+182,Sevimli Dad Ərzaq #182,10,Sevimli Dad,16.68,24,2023-06-27
+183,Hasbro Oyuncaq #183,8,Hasbro,43.37,327,2024-01-24
+184,Karaca Ev və bağ #184,9,Karaca,100.57,466,2023-05-15
+185,Samsung Elektronika #185,1,Samsung,493.94,63,2024-04-26
+186,Xiaomi Elektronika #186,1,Xiaomi,583.26,302,2024-04-16
+187,Xan Kitab #187,6,Xan,16.33,461,2024-02-27
+188,Puma İdman #188,7,Puma,98.49,466,2023-12-14
+189,TEAS Press Kitab #189,6,TEAS Press,47.34,226,2024-03-27
+190,Puma Ayaqqabı #190,4,Puma,109.68,184,2023-02-01
+191,LG Məişət texnikası #191,2,LG,318.13,125,2024-01-29
+192,LG Məişət texnikası #192,2,LG,1056.28,399,2023-05-02
+193,Alatoran Kitab #193,6,Alatoran,10.5,308,2023-09-07
+194,Nestlé Ərzaq #194,10,Nestlé,16.78,449,2024-03-16
+195,Skechers Ayaqqabı #195,4,Skechers,107.65,289,2024-02-11
+196,IKEA Ev və bağ #196,9,IKEA,36.55,468,2023-01-22
+197,Adidas İdman #197,7,Adidas,68.21,344,2023-12-04
+198,Alatoran Kitab #198,6,Alatoran,9.04,90,2023-01-22
+199,Lenovo Elektronika #199,1,Lenovo,518.05,310,2024-03-18
+200,Garnier Kosmetika #200,5,Garnier,40.39,380,2023-06-21
+201,Skechers Ayaqqabı #201,4,Skechers,54.67,488,2023-04-23
+202,Bosch Məişət texnikası #202,2,Bosch,784.92,64,2023-03-25
+203,TEAS Press Kitab #203,6,TEAS Press,12.35,399,2024-01-12
+204,Adidas Ayaqqabı #204,4,Adidas,88.17,447,2023-07-29
+205,Sevimli Dad Ərzaq #205,10,Sevimli Dad,19.39,50,2023-07-05
+206,LC Waikiki Geyim #206,3,LC Waikiki,49.7,229,2024-01-26
+207,Puma İdman #207,7,Puma,59.63,406,2023-01-01
+208,Ecco Ayaqqabı #208,4,Ecco,143.44,171,2024-05-18
+209,LC Waikiki Geyim #209,3,LC Waikiki,75.9,492,2023-10-30
+210,Reebok İdman #210,7,Reebok,167.29,287,2023-08-30
+211,Chicco Oyuncaq #211,8,Chicco,43.56,349,2024-06-04
+212,IKEA Ev və bağ #212,9,IKEA,31.67,398,2023-08-03
+213,Mattel Oyuncaq #213,8,Mattel,29.08,358,2023-08-12
+214,Mango Geyim #214,3,Mango,61.91,237,2023-12-14
+215,Tefal Ev və bağ #215,9,Tefal,58.08,321,2024-04-19
+216,Nivea Kosmetika #216,5,Nivea,18.85,106,2023-10-23
+217,Nivea Kosmetika #217,5,Nivea,16.35,119,2023-06-14
+218,Skechers Ayaqqabı #218,4,Skechers,74.15,400,2023-08-24
+219,TEAS Press Kitab #219,6,TEAS Press,21.64,219,2024-05-09
+220,Nike Ayaqqabı #220,4,Nike,79.93,282,2024-02-18
+221,Bosch Məişət texnikası #221,2,Bosch,327.82,382,2023-01-25
+222,Nike Ayaqqabı #222,4,Nike,83.3,389,2023-05-15
+223,Mango Geyim #223,3,Mango,42.33,54,2024-05-07
+224,Karaca Ev və bağ #224,9,Karaca,139.81,405,2024-02-28
+225,H&M Geyim #225,3,H&M,91.25,470,2023-02-13
+226,Milla Ərzaq #226,10,Milla,8.38,490,2023-09-14
+227,H&M Geyim #227,3,H&M,49.18,443,2023-04-26
+228,TEAS Press Kitab #228,6,TEAS Press,9.14,216,2023-04-08
+229,Adidas Ayaqqabı #229,4,Adidas,92.82,54,2023-12-11
+230,Az-Granata Ərzaq #230,10,Az-Granata,10.17,340,2023-05-21
+231,Paşabahçe Ev və bağ #231,9,Paşabahçe,61.95,181,2023-07-26
+232,Qanun Kitab #232,6,Qanun,11.18,195,2024-03-24
+233,Puma İdman #233,7,Puma,40.58,259,2024-05-02
+234,Koton Geyim #234,3,Koton,35.29,206,2023-05-20
+235,LC Waikiki Geyim #235,3,LC Waikiki,52.81,453,2023-02-12
+236,Puma İdman #236,7,Puma,53.57,375,2024-05-03
+237,Xiaomi Elektronika #237,1,Xiaomi,1171.03,195,2023-06-23
+238,HP Elektronika #238,1,HP,1060.58,466,2023-04-30
+239,LC Waikiki Geyim #239,3,LC Waikiki,78.56,224,2024-03-09
+240,Reebok İdman #240,7,Reebok,30.84,373,2024-05-09
+241,Garnier Kosmetika #241,5,Garnier,32.72,172,2023-11-21
+242,Maybelline Kosmetika #242,5,Maybelline,31.93,68,2023-03-25
+243,Ecco Ayaqqabı #243,4,Ecco,81.65,433,2023-06-11
+244,Playmobil Oyuncaq #244,8,Playmobil,32.3,170,2023-02-08
+245,Karaca Ev və bağ #245,9,Karaca,46.94,461,2023-12-13
+246,Lenovo Elektronika #246,1,Lenovo,346.33,373,2023-07-29
+247,TEAS Press Kitab #247,6,TEAS Press,14.4,351,2023-11-20
+248,Zara Geyim #248,3,Zara,41.77,468,2024-05-19
+249,Alatoran Kitab #249,6,Alatoran,19.03,179,2024-06-10
+250,Garnier Kosmetika #250,5,Garnier,53.24,22,2024-02-08
+251,Hasbro Oyuncaq #251,8,Hasbro,38.74,397,2023-04-23
+252,Qanun Kitab #252,6,Qanun,6.9,21,2023-02-17
+253,Puma İdman #253,7,Puma,53.79,352,2023-10-07
+254,IKEA Ev və bağ #254,9,IKEA,48.28,485,2024-06-28
+255,Nivea Kosmetika #255,5,Nivea,29.63,495,2023-10-06
+256,Dove Kosmetika #256,5,Dove,29.74,105,2023-06-27
+257,Puma İdman #257,7,Puma,78.27,443,2023-03-19
+258,LEGO Oyuncaq #258,8,LEGO,17.62,354,2023-12-03
+259,Bakı Kitab Kitab #259,6,Bakı Kitab,12.6,119,2023-05-23
+260,Puma Ayaqqabı #260,4,Puma,92.76,311,2023-07-31
+261,Bosch Məişət texnikası #261,2,Bosch,284.91,432,2024-02-09
+262,Sevimli Dad Ərzaq #262,10,Sevimli Dad,11.02,202,2023-11-25
+263,Puma İdman #263,7,Puma,40.52,322,2023-01-19
+264,LC Waikiki Geyim #264,3,LC Waikiki,63.94,394,2023-09-06
+265,Maybelline Kosmetika #265,5,Maybelline,41.02,367,2024-06-08
+266,Milla Ərzaq #266,10,Milla,11.43,163,2024-01-29
+267,Xiaomi Elektronika #267,1,Xiaomi,571.55,171,2023-10-21
+268,Zara Geyim #268,3,Zara,89.18,222,2024-06-29
+269,Gardena Ev və bağ #269,9,Gardena,49.46,149,2024-04-20
+270,Puma İdman #270,7,Puma,79.11,38,2023-04-07
+271,Nike Ayaqqabı #271,4,Nike,56.68,400,2023-04-07
+272,Mattel Oyuncaq #272,8,Mattel,35.13,5,2024-03-27
+273,Mattel Oyuncaq #273,8,Mattel,38.38,192,2024-05-21
+274,Samsung Elektronika #274,1,Samsung,698.5,290,2023-01-31
+275,Maybelline Kosmetika #275,5,Maybelline,47.74,386,2023-04-21
+276,Qanun Kitab #276,6,Qanun,13.04,81,2024-03-24
+277,Bakı Kitab Kitab #277,6,Bakı Kitab,37.18,352,2023-06-11
+278,Lenovo Elektronika #278,1,Lenovo,325.16,61,2024-06-20
+279,Samsung Elektronika #279,1,Samsung,594.53,314,2024-03-11
+280,Zara Geyim #280,3,Zara,52.81,56,2023-09-13
+281,Az-Granata Ərzaq #281,10,Az-Granata,8.21,138,2023-04-05
+282,Chicco Oyuncaq #282,8,Chicco,29.87,127,2023-10-31
+283,Nestlé Ərzaq #283,10,Nestlé,8.19,166,2023-01-24
+284,Hasbro Oyuncaq #284,8,Hasbro,36.11,114,2023-06-16
+285,Paşabahçe Ev və bağ #285,9,Paşabahçe,62.81,465,2023-11-03
+286,Milla Ərzaq #286,10,Milla,11.49,246,2023-04-06
+287,LG Məişət texnikası #287,2,LG,430.76,57,2023-06-08
+288,Qanun Kitab #288,6,Qanun,14.52,204,2023-05-17
+289,Beko Məişət texnikası #289,2,Beko,473.13,73,2023-11-06
+290,Reebok İdman #290,7,Reebok,49.19,129,2024-02-16
+291,Adidas İdman #291,7,Adidas,78.96,453,2023-03-31
+292,Xiaomi Elektronika #292,1,Xiaomi,1932.26,242,2023-07-01
+293,Arçelik Məişət texnikası #293,2,Arçelik,396.91,398,2023-02-04
+294,Nestlé Ərzaq #294,10,Nestlé,8.81,81,2023-02-08
+295,Garnier Kosmetika #295,5,Garnier,13.64,171,2024-03-22
+296,Skechers Ayaqqabı #296,4,Skechers,92.88,72,2024-01-24
+297,Playmobil Oyuncaq #297,8,Playmobil,81.66,33,2023-09-18
+298,Mattel Oyuncaq #298,8,Mattel,34.82,322,2023-11-30
+299,Bakı Kitab Kitab #299,6,Bakı Kitab,19.54,462,2024-01-06
+300,Ecco Ayaqqabı #300,4,Ecco,102.4,176,2024-01-09
