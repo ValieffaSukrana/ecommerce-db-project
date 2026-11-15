@@ -1,0 +1,2702 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Koton Geyim #001",
+    "category_id": 3,
+    "brand": "Koton",
+    "unit_price": 35.29,
+    "stock_quantity": 8,
+    "created_at": "2023-05-08"
+  },
+  {
+    "product_id": 2,
+    "product_name": "Qanun Kitab #002",
+    "category_id": 6,
+    "brand": "Qanun",
+    "unit_price": 17.48,
+    "stock_quantity": 111,
+    "created_at": "2024-05-29"
+  },
+  {
+    "product_id": 3,
+    "product_name": "TEAS Press Kitab #003",
+    "category_id": 6,
+    "brand": "TEAS Press",
+    "unit_price": 27.94,
+    "stock_quantity": 110,
+    "created_at": "2023-01-06"
+  },
+  {
+    "product_id": 4,
+    "product_name": "Qanun Kitab #004",
+    "category_id": 6,
+    "brand": "Qanun",
+    "unit_price": 10.55,
+    "stock_quantity": 154,
+    "created_at": "2023-11-20"
+  },
+  {
+    "product_id": 5,
+    "product_name": "Decathlon İdman #005",
+    "category_id": 7,
+    "brand": "Decathlon",
+    "unit_price": 60.51,
+    "stock_quantity": 305,
+    "created_at": "2023-05-20"
+  },
+  {
+    "product_id": 6,
+    "product_name": "L'Oréal Kosmetika #006",
+    "category_id": 5,
+    "brand": "L'Oréal",
+    "unit_price": 73.21,
+    "stock_quantity": 443,
+    "created_at": "2024-02-07"
+  },
+  {
+    "product_id": 7,
+    "product_name": "Philips Məişət texnikası #007",
+    "category_id": 2,
+    "brand": "Philips",
+    "unit_price": 561.32,
+    "stock_quantity": 334,
+    "created_at": "2023-07-16"
+  },
+  {
+    "product_id": 8,
+    "product_name": "L'Oréal Kosmetika #008",
+    "category_id": 5,
+    "brand": "L'Oréal",
+    "unit_price": 30.57,
+    "stock_quantity": 489,
+    "created_at": "2023-12-20"
+  },
+  {
+    "product_id": 9,
+    "product_name": "Gardena Ev və bağ #009",
+    "category_id": 9,
+    "brand": "Gardena",
+    "unit_price": 87.79,
+    "stock_quantity": 64,
+    "created_at": "2024-03-25"
+  },
+  {
+    "product_id": 10,
+    "product_name": "Hasbro Oyuncaq #010",
+    "category_id": 8,
+    "brand": "Hasbro",
+    "unit_price": 58.27,
+    "stock_quantity": 156,
+    "created_at": "2023-03-27"
+  },
+  {
+    "product_id": 11,
+    "product_name": "Apple Elektronika #011",
+    "category_id": 1,
+    "brand": "Apple",
+    "unit_price": 664.71,
+    "stock_quantity": 443,
+    "created_at": "2023-09-12"
+  },
+  {
+    "product_id": 12,
+    "product_name": "Paşabahçe Ev və bağ #012",
+    "category_id": 9,
+    "brand": "Paşabahçe",
+    "unit_price": 18.37,
+    "stock_quantity": 186,
+    "created_at": "2023-12-22"
+  },
+  {
+    "product_id": 13,
+    "product_name": "Lenovo Elektronika #013",
+    "category_id": 1,
+    "brand": "Lenovo",
+    "unit_price": 1327.04,
+    "stock_quantity": 240,
+    "created_at": "2023-07-04"
+  },
+  {
+    "product_id": 14,
+    "product_name": "LG Məişət texnikası #014",
+    "category_id": 2,
+    "brand": "LG",
+    "unit_price": 304.96,
+    "stock_quantity": 104,
+    "created_at": "2024-01-04"
+  },
+  {
+    "product_id": 15,
+    "product_name": "Hasbro Oyuncaq #015",
+    "category_id": 8,
+    "brand": "Hasbro",
+    "unit_price": 12.13,
+    "stock_quantity": 30,
+    "created_at": "2023-11-01"
+  },
+  {
+    "product_id": 16,
+    "product_name": "Nestlé Ərzaq #016",
+    "category_id": 10,
+    "brand": "Nestlé",
+    "unit_price": 25.32,
+    "stock_quantity": 92,
+    "created_at": "2023-11-20"
+  },
+  {
+    "product_id": 17,
+    "product_name": "L'Oréal Kosmetika #017",
+    "category_id": 5,
+    "brand": "L'Oréal",
+    "unit_price": 11.79,
+    "stock_quantity": 378,
+    "created_at": "2023-12-21"
+  },
+  {
+    "product_id": 18,
+    "product_name": "Arçelik Məişət texnikası #018",
+    "category_id": 2,
+    "brand": "Arçelik",
+    "unit_price": 451.65,
+    "stock_quantity": 175,
+    "created_at": "2023-12-19"
+  },
+  {
+    "product_id": 19,
+    "product_name": "IKEA Ev və bağ #019",
+    "category_id": 9,
+    "brand": "IKEA",
+    "unit_price": 137.21,
+    "stock_quantity": 231,
+    "created_at": "2024-04-12"
+  },
+  {
+    "product_id": 20,
+    "product_name": "Alatoran Kitab #020",
+    "category_id": 6,
+    "brand": "Alatoran",
+    "unit_price": 17.03,
+    "stock_quantity": 287,
+    "created_at": "2023-09-10"
+  },
+  {
+    "product_id": 21,
+    "product_name": "Hasbro Oyuncaq #021",
+    "category_id": 8,
+    "brand": "Hasbro",
+    "unit_price": 17.59,
+    "stock_quantity": 120,
+    "created_at": "2024-01-09"
+  },
+  {
+    "product_id": 22,
+    "product_name": "LEGO Oyuncaq #022",
+    "category_id": 8,
+    "brand": "LEGO",
+    "unit_price": 44.38,
+    "stock_quantity": 435,
+    "created_at": "2023-07-13"
+  },
+  {
+    "product_id": 23,
+    "product_name": "L'Oréal Kosmetika #023",
+    "category_id": 5,
+    "brand": "L'Oréal",
+    "unit_price": 40.61,
+    "stock_quantity": 134,
+    "created_at": "2024-01-23"
+  },
+  {
+    "product_id": 24,
+    "product_name": "Garnier Kosmetika #024",
+    "category_id": 5,
+    "brand": "Garnier",
+    "unit_price": 33.89,
+    "stock_quantity": 362,
+    "created_at": "2023-02-03"
+  },
+  {
+    "product_id": 25,
+    "product_name": "Philips Məişət texnikası #025",
+    "category_id": 2,
+    "brand": "Philips",
+    "unit_price": 389.62,
+    "stock_quantity": 280,
+    "created_at": "2023-05-03"
+  },
+  {
+    "product_id": 26,
+    "product_name": "Nike Ayaqqabı #026",
+    "category_id": 4,
+    "brand": "Nike",
+    "unit_price": 97.88,
+    "stock_quantity": 391,
+    "created_at": "2023-06-24"
+  },
+  {
+    "product_id": 27,
+    "product_name": "Atena Ərzaq #027",
+    "category_id": 10,
+    "brand": "Atena",
+    "unit_price": 9.25,
+    "stock_quantity": 101,
+    "created_at": "2024-05-06"
+  },
+  {
+    "product_id": 28,
+    "product_name": "LEGO Oyuncaq #028",
+    "category_id": 8,
+    "brand": "LEGO",
+    "unit_price": 35.48,
+    "stock_quantity": 115,
+    "created_at": "2023-08-11"
+  },
+  {
+    "product_id": 29,
+    "product_name": "Skechers Ayaqqabı #029",
+    "category_id": 4,
+    "brand": "Skechers",
+    "unit_price": 140.27,
+    "stock_quantity": 45,
+    "created_at": "2023-09-14"
+  },
+  {
+    "product_id": 30,
+    "product_name": "Decathlon İdman #030",
+    "category_id": 7,
+    "brand": "Decathlon",
+    "unit_price": 166.47,
+    "stock_quantity": 383,
+    "created_at": "2023-06-05"
+  },
+  {
+    "product_id": 31,
+    "product_name": "Az-Granata Ərzaq #031",
+    "category_id": 10,
+    "brand": "Az-Granata",
+    "unit_price": 9.43,
+    "stock_quantity": 465,
+    "created_at": "2023-03-12"
+  },
+  {
+    "product_id": 32,
+    "product_name": "Koton Geyim #032",
+    "category_id": 3,
+    "brand": "Koton",
+    "unit_price": 36.33,
+    "stock_quantity": 425,
+    "created_at": "2023-03-31"
+  },
+  {
+    "product_id": 33,
+    "product_name": "Xan Kitab #033",
+    "category_id": 6,
+    "brand": "Xan",
+    "unit_price": null,
+    "stock_quantity": 244,
+    "created_at": "2024-06-26"
+  },
+  {
+    "product_id": 34,
+    "product_name": "Puma İdman #034",
+    "category_id": 7,
+    "brand": "Puma",
+    "unit_price": 40.04,
+    "stock_quantity": 146,
+    "created_at": "2023-12-18"
+  },
+  {
+    "product_id": 35,
+    "product_name": "TEAS Press Kitab #035",
+    "category_id": 6,
+    "brand": "TEAS Press",
+    "unit_price": 17.26,
+    "stock_quantity": 493,
+    "created_at": "2024-03-18"
+  },
+  {
+    "product_id": 36,
+    "product_name": "Arçelik Məişət texnikası #036",
+    "category_id": 2,
+    "brand": "Arçelik",
+    "unit_price": 376.14,
+    "stock_quantity": 243,
+    "created_at": "2023-05-23"
+  },
+  {
+    "product_id": 37,
+    "product_name": "Karaca Ev və bağ #037",
+    "category_id": 9,
+    "brand": "Karaca",
+    "unit_price": 98.87,
+    "stock_quantity": 5,
+    "created_at": "2024-06-15"
+  },
+  {
+    "product_id": 38,
+    "product_name": "Xiaomi Elektronika #038",
+    "category_id": 1,
+    "brand": "Xiaomi",
+    "unit_price": 504.68,
+    "stock_quantity": 222,
+    "created_at": "2023-04-07"
+  },
+  {
+    "product_id": 39,
+    "product_name": "Philips Məişət texnikası #039",
+    "category_id": 2,
+    "brand": "Philips",
+    "unit_price": 1066.77,
+    "stock_quantity": 111,
+    "created_at": "2023-01-03"
+  },
+  {
+    "product_id": 40,
+    "product_name": "Arçelik Məişət texnikası #040",
+    "category_id": 2,
+    "brand": "Arçelik",
+    "unit_price": 249.45,
+    "stock_quantity": 322,
+    "created_at": "2023-07-12"
+  },
+  {
+    "product_id": 41,
+    "product_name": "Ecco Ayaqqabı #041",
+    "category_id": 4,
+    "brand": "Ecco",
+    "unit_price": 332.31,
+    "stock_quantity": 255,
+    "created_at": "2023-12-26"
+  },
+  {
+    "product_id": 42,
+    "product_name": "LG Məişət texnikası #042",
+    "category_id": 2,
+    "brand": "LG",
+    "unit_price": 576.68,
+    "stock_quantity": 247,
+    "created_at": "2023-01-25"
+  },
+  {
+    "product_id": 43,
+    "product_name": "Gardena Ev və bağ #043",
+    "category_id": 9,
+    "brand": "Gardena",
+    "unit_price": 96.97,
+    "stock_quantity": 480,
+    "created_at": "2024-05-22"
+  },
+  {
+    "product_id": 44,
+    "product_name": "Adidas İdman #044",
+    "category_id": 7,
+    "brand": "Adidas",
+    "unit_price": 60.86,
+    "stock_quantity": 83,
+    "created_at": "2023-02-28"
+  },
+  {
+    "product_id": 45,
+    "product_name": "Samsung Elektronika #045",
+    "category_id": 1,
+    "brand": "Samsung",
+    "unit_price": 1932.16,
+    "stock_quantity": 122,
+    "created_at": "2023-10-07"
+  },
+  {
+    "product_id": 46,
+    "product_name": "Milla Ərzaq #046",
+    "category_id": 10,
+    "brand": "Milla",
+    "unit_price": 19.57,
+    "stock_quantity": 136,
+    "created_at": "2023-04-10"
+  },
+  {
+    "product_id": 47,
+    "product_name": "Adidas Ayaqqabı #047",
+    "category_id": 4,
+    "brand": "Adidas",
+    "unit_price": 48.87,
+    "stock_quantity": 97,
+    "created_at": "2024-03-28"
+  },
+  {
+    "product_id": 48,
+    "product_name": "Lenovo Elektronika #048",
+    "category_id": 1,
+    "brand": "Lenovo",
+    "unit_price": 485.64,
+    "stock_quantity": 284,
+    "created_at": "2023-08-21"
+  },
+  {
+    "product_id": 49,
+    "product_name": "Atena Ərzaq #049",
+    "category_id": 10,
+    "brand": "Atena",
+    "unit_price": 9.98,
+    "stock_quantity": 26,
+    "created_at": "2024-03-14"
+  },
+  {
+    "product_id": 50,
+    "product_name": "L'Oréal Kosmetika #050",
+    "category_id": 5,
+    "brand": "L'Oréal",
+    "unit_price": 14.78,
+    "stock_quantity": 367,
+    "created_at": "2023-03-28"
+  },
+  {
+    "product_id": 51,
+    "product_name": "TEAS Press Kitab #051",
+    "category_id": 6,
+    "brand": "TEAS Press",
+    "unit_price": 25.26,
+    "stock_quantity": 461,
+    "created_at": "2024-03-06"
+  },
+  {
+    "product_id": 52,
+    "product_name": "Gardena Ev və bağ #052",
+    "category_id": 9,
+    "brand": "Gardena",
+    "unit_price": 90.55,
+    "stock_quantity": 311,
+    "created_at": "2024-04-27"
+  },
+  {
+    "product_id": 53,
+    "product_name": "Puma Ayaqqabı #053",
+    "category_id": 4,
+    "brand": "Puma",
+    "unit_price": 110.63,
+    "stock_quantity": 313,
+    "created_at": "2023-09-25"
+  },
+  {
+    "product_id": 54,
+    "product_name": "Philips Məişət texnikası #054",
+    "category_id": 2,
+    "brand": "Philips",
+    "unit_price": 454.53,
+    "stock_quantity": 281,
+    "created_at": "2024-03-20"
+  },
+  {
+    "product_id": 55,
+    "product_name": "Arçelik Məişət texnikası #055",
+    "category_id": 2,
+    "brand": "Arçelik",
+    "unit_price": 473.13,
+    "stock_quantity": 217,
+    "created_at": "2023-05-29"
+  },
+  {
+    "product_id": 56,
+    "product_name": "IKEA Ev və bağ #056",
+    "category_id": 9,
+    "brand": "IKEA",
+    "unit_price": 44.16,
+    "stock_quantity": 60,
+    "created_at": "2024-05-06"
+  },
+  {
+    "product_id": 57,
+    "product_name": "Nike Ayaqqabı #057",
+    "category_id": 4,
+    "brand": "Nike",
+    "unit_price": 67.75,
+    "stock_quantity": 298,
+    "created_at": "2023-06-28"
+  },
+  {
+    "product_id": 58,
+    "product_name": "L'Oréal Kosmetika #058",
+    "category_id": 5,
+    "brand": "L'Oréal",
+    "unit_price": 36.47,
+    "stock_quantity": 176,
+    "created_at": "2023-10-19"
+  },
+  {
+    "product_id": 59,
+    "product_name": "Skechers Ayaqqabı #059",
+    "category_id": 4,
+    "brand": "Skechers",
+    "unit_price": 101.41,
+    "stock_quantity": 125,
+    "created_at": "2024-01-17"
+  },
+  {
+    "product_id": 60,
+    "product_name": "Decathlon İdman #060",
+    "category_id": 7,
+    "brand": "Decathlon",
+    "unit_price": 86.4,
+    "stock_quantity": 381,
+    "created_at": "2023-07-04"
+  },
+  {
+    "product_id": 61,
+    "product_name": "Maybelline Kosmetika #061",
+    "category_id": 5,
+    "brand": "Maybelline",
+    "unit_price": 24.86,
+    "stock_quantity": 351,
+    "created_at": "2024-03-24"
+  },
+  {
+    "product_id": 62,
+    "product_name": "Bakı Kitab Kitab #062",
+    "category_id": 6,
+    "brand": "Bakı Kitab",
+    "unit_price": 31.73,
+    "stock_quantity": 138,
+    "created_at": "2024-01-27"
+  },
+  {
+    "product_id": 63,
+    "product_name": "LG Məişət texnikası #063",
+    "category_id": 2,
+    "brand": "LG",
+    "unit_price": 576.77,
+    "stock_quantity": 488,
+    "created_at": "2024-06-25"
+  },
+  {
+    "product_id": 64,
+    "product_name": "LEGO Oyuncaq #064",
+    "category_id": 8,
+    "brand": "LEGO",
+    "unit_price": 42.46,
+    "stock_quantity": 468,
+    "created_at": "2023-12-03"
+  },
+  {
+    "product_id": 65,
+    "product_name": "Garnier Kosmetika #065",
+    "category_id": 5,
+    "brand": "Garnier",
+    "unit_price": 16.13,
+    "stock_quantity": 337,
+    "created_at": "2023-06-23"
+  },
+  {
+    "product_id": 66,
+    "product_name": "Samsung Elektronika #066",
+    "category_id": 1,
+    "brand": "Samsung",
+    "unit_price": 527.56,
+    "stock_quantity": 99,
+    "created_at": "2023-02-11"
+  },
+  {
+    "product_id": 67,
+    "product_name": "IKEA Ev və bağ #067",
+    "category_id": 9,
+    "brand": "IKEA",
+    "unit_price": 71.73,
+    "stock_quantity": 277,
+    "created_at": "2023-05-11"
+  },
+  {
+    "product_id": 68,
+    "product_name": "Reebok İdman #068",
+    "category_id": 7,
+    "brand": "Reebok",
+    "unit_price": 74.27,
+    "stock_quantity": 386,
+    "created_at": "2024-03-22"
+  },
+  {
+    "product_id": 69,
+    "product_name": "Nestlé Ərzaq #069",
+    "category_id": 10,
+    "brand": "Nestlé",
+    "unit_price": 18.25,
+    "stock_quantity": 360,
+    "created_at": "2023-10-23"
+  },
+  {
+    "product_id": 70,
+    "product_name": "Atena Ərzaq #070",
+    "category_id": 10,
+    "brand": "Atena",
+    "unit_price": 7.95,
+    "stock_quantity": 179,
+    "created_at": "2024-01-15"
+  },
+  {
+    "product_id": 71,
+    "product_name": "Gardena Ev və bağ #071",
+    "category_id": 9,
+    "brand": "Gardena",
+    "unit_price": 32.72,
+    "stock_quantity": 79,
+    "created_at": "2024-01-24"
+  },
+  {
+    "product_id": 72,
+    "product_name": "Decathlon İdman #072",
+    "category_id": 7,
+    "brand": "Decathlon",
+    "unit_price": 60.95,
+    "stock_quantity": 244,
+    "created_at": "2024-01-30"
+  },
+  {
+    "product_id": 73,
+    "product_name": "Tefal Ev və bağ #073",
+    "category_id": 9,
+    "brand": "Tefal",
+    "unit_price": null,
+    "stock_quantity": 257,
+    "created_at": "2023-09-19"
+  },
+  {
+    "product_id": 74,
+    "product_name": "Nivea Kosmetika #074",
+    "category_id": 5,
+    "brand": "Nivea",
+    "unit_price": 30.74,
+    "stock_quantity": 441,
+    "created_at": "2024-04-09"
+  },
+  {
+    "product_id": 75,
+    "product_name": "Nike Ayaqqabı #075",
+    "category_id": 4,
+    "brand": "Nike",
+    "unit_price": 73.72,
+    "stock_quantity": 136,
+    "created_at": "2024-02-06"
+  },
+  {
+    "product_id": 76,
+    "product_name": "Nivea Kosmetika #076",
+    "category_id": 5,
+    "brand": "Nivea",
+    "unit_price": 26.25,
+    "stock_quantity": 209,
+    "created_at": "2024-03-07"
+  },
+  {
+    "product_id": 77,
+    "product_name": "Mango Geyim #077",
+    "category_id": 3,
+    "brand": "Mango",
+    "unit_price": 42.68,
+    "stock_quantity": 345,
+    "created_at": "2023-07-06"
+  },
+  {
+    "product_id": 78,
+    "product_name": "Puma İdman #078",
+    "category_id": 7,
+    "brand": "Puma",
+    "unit_price": 17.94,
+    "stock_quantity": 163,
+    "created_at": "2023-02-18"
+  },
+  {
+    "product_id": 79,
+    "product_name": "Hasbro Oyuncaq #079",
+    "category_id": 8,
+    "brand": "Hasbro",
+    "unit_price": 60.15,
+    "stock_quantity": 10,
+    "created_at": "2023-11-15"
+  },
+  {
+    "product_id": 80,
+    "product_name": "HP Elektronika #080",
+    "category_id": 1,
+    "brand": "HP",
+    "unit_price": 635.93,
+    "stock_quantity": 50,
+    "created_at": "2023-09-27"
+  },
+  {
+    "product_id": 81,
+    "product_name": "Dove Kosmetika #081",
+    "category_id": 5,
+    "brand": "Dove",
+    "unit_price": 24.81,
+    "stock_quantity": 326,
+    "created_at": "2024-01-09"
+  },
+  {
+    "product_id": 82,
+    "product_name": "Lenovo Elektronika #082",
+    "category_id": 1,
+    "brand": "Lenovo",
+    "unit_price": 535.83,
+    "stock_quantity": 382,
+    "created_at": "2023-07-15"
+  },
+  {
+    "product_id": 83,
+    "product_name": "Tefal Ev və bağ #083",
+    "category_id": 9,
+    "brand": "Tefal",
+    "unit_price": 68.88,
+    "stock_quantity": 378,
+    "created_at": "2024-01-10"
+  },
+  {
+    "product_id": 84,
+    "product_name": "IKEA Ev və bağ #084",
+    "category_id": 9,
+    "brand": "IKEA",
+    "unit_price": 84.62,
+    "stock_quantity": 128,
+    "created_at": "2023-01-30"
+  },
+  {
+    "product_id": 85,
+    "product_name": "Lenovo Elektronika #085",
+    "category_id": 1,
+    "brand": "Lenovo",
+    "unit_price": 1737.55,
+    "stock_quantity": 76,
+    "created_at": "2024-01-15"
+  },
+  {
+    "product_id": 86,
+    "product_name": "Chicco Oyuncaq #086",
+    "category_id": 8,
+    "brand": "Chicco",
+    "unit_price": 17.55,
+    "stock_quantity": 234,
+    "created_at": "2023-12-08"
+  },
+  {
+    "product_id": 87,
+    "product_name": "Philips Məişət texnikası #087",
+    "category_id": 2,
+    "brand": "Philips",
+    "unit_price": 346.02,
+    "stock_quantity": 349,
+    "created_at": "2024-02-26"
+  },
+  {
+    "product_id": 88,
+    "product_name": "HP Elektronika #088",
+    "category_id": 1,
+    "brand": "HP",
+    "unit_price": 364.19,
+    "stock_quantity": 237,
+    "created_at": "2023-05-08"
+  },
+  {
+    "product_id": 89,
+    "product_name": "Chicco Oyuncaq #089",
+    "category_id": 8,
+    "brand": "Chicco",
+    "unit_price": 42.94,
+    "stock_quantity": 52,
+    "created_at": "2024-02-29"
+  },
+  {
+    "product_id": 90,
+    "product_name": "Atena Ərzaq #090",
+    "category_id": 10,
+    "brand": "Atena",
+    "unit_price": 6.07,
+    "stock_quantity": 423,
+    "created_at": "2023-07-18"
+  },
+  {
+    "product_id": 91,
+    "product_name": "Xiaomi Elektronika #091",
+    "category_id": 1,
+    "brand": "Xiaomi",
+    "unit_price": 567.27,
+    "stock_quantity": 494,
+    "created_at": "2023-09-01"
+  },
+  {
+    "product_id": 92,
+    "product_name": "Mattel Oyuncaq #092",
+    "category_id": 8,
+    "brand": "Mattel",
+    "unit_price": 27.31,
+    "stock_quantity": 498,
+    "created_at": "2023-09-15"
+  },
+  {
+    "product_id": 93,
+    "product_name": "Puma İdman #093",
+    "category_id": 7,
+    "brand": "Puma",
+    "unit_price": 61.16,
+    "stock_quantity": 442,
+    "created_at": "2023-06-14"
+  },
+  {
+    "product_id": 94,
+    "product_name": "L'Oréal Kosmetika #094",
+    "category_id": 5,
+    "brand": "L'Oréal",
+    "unit_price": 26.27,
+    "stock_quantity": 413,
+    "created_at": "2023-05-29"
+  },
+  {
+    "product_id": 95,
+    "product_name": "Nestlé Ərzaq #095",
+    "category_id": 10,
+    "brand": "Nestlé",
+    "unit_price": 6.89,
+    "stock_quantity": 292,
+    "created_at": "2024-06-11"
+  },
+  {
+    "product_id": 96,
+    "product_name": "Nike İdman #096",
+    "category_id": 7,
+    "brand": "Nike",
+    "unit_price": 58.77,
+    "stock_quantity": 296,
+    "created_at": "2023-08-24"
+  },
+  {
+    "product_id": 97,
+    "product_name": "Mango Geyim #097",
+    "category_id": 3,
+    "brand": "Mango",
+    "unit_price": 63.82,
+    "stock_quantity": 284,
+    "created_at": "2023-12-19"
+  },
+  {
+    "product_id": 98,
+    "product_name": "Nestlé Ərzaq #098",
+    "category_id": 10,
+    "brand": "Nestlé",
+    "unit_price": 10.4,
+    "stock_quantity": 258,
+    "created_at": "2024-05-06"
+  },
+  {
+    "product_id": 99,
+    "product_name": "Chicco Oyuncaq #099",
+    "category_id": 8,
+    "brand": "Chicco",
+    "unit_price": 39.43,
+    "stock_quantity": 37,
+    "created_at": "2024-05-13"
+  },
+  {
+    "product_id": 100,
+    "product_name": "Bakı Kitab Kitab #100",
+    "category_id": 6,
+    "brand": "Bakı Kitab",
+    "unit_price": 14.12,
+    "stock_quantity": 104,
+    "created_at": "2023-02-02"
+  },
+  {
+    "product_id": 101,
+    "product_name": "LEGO Oyuncaq #101",
+    "category_id": 8,
+    "brand": "LEGO",
+    "unit_price": 12.53,
+    "stock_quantity": 52,
+    "created_at": "2023-10-12"
+  },
+  {
+    "product_id": 102,
+    "product_name": "Nike Ayaqqabı #102",
+    "category_id": 4,
+    "brand": "Nike",
+    "unit_price": 115.1,
+    "stock_quantity": 320,
+    "created_at": "2024-03-17"
+  },
+  {
+    "product_id": 103,
+    "product_name": "Paşabahçe Ev və bağ #103",
+    "category_id": 9,
+    "brand": "Paşabahçe",
+    "unit_price": 56.82,
+    "stock_quantity": 24,
+    "created_at": "2024-01-25"
+  },
+  {
+    "product_id": 104,
+    "product_name": "Nike İdman #104",
+    "category_id": 7,
+    "brand": "Nike",
+    "unit_price": 100.05,
+    "stock_quantity": 399,
+    "created_at": "2023-11-19"
+  },
+  {
+    "product_id": 105,
+    "product_name": "Adidas Ayaqqabı #105",
+    "category_id": 4,
+    "brand": "Adidas",
+    "unit_price": 71.29,
+    "stock_quantity": 138,
+    "created_at": "2023-07-29"
+  },
+  {
+    "product_id": 106,
+    "product_name": "HP Elektronika #106",
+    "category_id": 1,
+    "brand": "HP",
+    "unit_price": 600.77,
+    "stock_quantity": 452,
+    "created_at": "2023-03-02"
+  },
+  {
+    "product_id": 107,
+    "product_name": "Playmobil Oyuncaq #107",
+    "category_id": 8,
+    "brand": "Playmobil",
+    "unit_price": 66.6,
+    "stock_quantity": 215,
+    "created_at": "2023-06-15"
+  },
+  {
+    "product_id": 108,
+    "product_name": "H&M Geyim #108",
+    "category_id": 3,
+    "brand": "H&M",
+    "unit_price": 27.11,
+    "stock_quantity": 148,
+    "created_at": "2024-04-09"
+  },
+  {
+    "product_id": 109,
+    "product_name": "Qanun Kitab #109",
+    "category_id": 6,
+    "brand": "Qanun",
+    "unit_price": 16.6,
+    "stock_quantity": 220,
+    "created_at": "2023-08-08"
+  },
+  {
+    "product_id": 110,
+    "product_name": "Adidas İdman #110",
+    "category_id": 7,
+    "brand": "Adidas",
+    "unit_price": 37.69,
+    "stock_quantity": 356,
+    "created_at": "2024-02-06"
+  },
+  {
+    "product_id": 111,
+    "product_name": "Maybelline Kosmetika #111",
+    "category_id": 5,
+    "brand": "Maybelline",
+    "unit_price": 35.87,
+    "stock_quantity": 296,
+    "created_at": "2023-04-20"
+  },
+  {
+    "product_id": 112,
+    "product_name": "Hasbro Oyuncaq #112",
+    "category_id": 8,
+    "brand": "Hasbro",
+    "unit_price": 43.14,
+    "stock_quantity": 261,
+    "created_at": "2024-03-16"
+  },
+  {
+    "product_id": 113,
+    "product_name": "Lenovo Elektronika #113",
+    "category_id": 1,
+    "brand": "Lenovo",
+    "unit_price": 995.64,
+    "stock_quantity": 167,
+    "created_at": "2023-01-19"
+  },
+  {
+    "product_id": 114,
+    "product_name": "TEAS Press Kitab #114",
+    "category_id": 6,
+    "brand": "TEAS Press",
+    "unit_price": 11.28,
+    "stock_quantity": 482,
+    "created_at": "2024-02-22"
+  },
+  {
+    "product_id": 115,
+    "product_name": "Ecco Ayaqqabı #115",
+    "category_id": 4,
+    "brand": "Ecco",
+    "unit_price": 27.25,
+    "stock_quantity": 191,
+    "created_at": "2023-04-01"
+  },
+  {
+    "product_id": 116,
+    "product_name": "Reebok İdman #116",
+    "category_id": 7,
+    "brand": "Reebok",
+    "unit_price": 203.83,
+    "stock_quantity": 492,
+    "created_at": "2023-03-03"
+  },
+  {
+    "product_id": 117,
+    "product_name": "H&M Geyim #117",
+    "category_id": 3,
+    "brand": "H&M",
+    "unit_price": 121.95,
+    "stock_quantity": 211,
+    "created_at": "2023-06-24"
+  },
+  {
+    "product_id": 118,
+    "product_name": "Playmobil Oyuncaq #118",
+    "category_id": 8,
+    "brand": "Playmobil",
+    "unit_price": 30.07,
+    "stock_quantity": 450,
+    "created_at": "2023-05-30"
+  },
+  {
+    "product_id": 119,
+    "product_name": "Adidas Ayaqqabı #119",
+    "category_id": 4,
+    "brand": "Adidas",
+    "unit_price": 117.75,
+    "stock_quantity": 238,
+    "created_at": "2024-02-24"
+  },
+  {
+    "product_id": 120,
+    "product_name": "Philips Məişət texnikası #120",
+    "category_id": 2,
+    "brand": "Philips",
+    "unit_price": 488.57,
+    "stock_quantity": 452,
+    "created_at": "2023-05-24"
+  },
+  {
+    "product_id": 121,
+    "product_name": "Az-Granata Ərzaq #121",
+    "category_id": 10,
+    "brand": "Az-Granata",
+    "unit_price": 20.58,
+    "stock_quantity": 95,
+    "created_at": "2023-07-02"
+  },
+  {
+    "product_id": 122,
+    "product_name": "Apple Elektronika #122",
+    "category_id": 1,
+    "brand": "Apple",
+    "unit_price": 437.55,
+    "stock_quantity": 183,
+    "created_at": "2023-01-03"
+  },
+  {
+    "product_id": 123,
+    "product_name": "Apple Elektronika #123",
+    "category_id": 1,
+    "brand": "Apple",
+    "unit_price": 767.98,
+    "stock_quantity": 261,
+    "created_at": "2024-04-01"
+  },
+  {
+    "product_id": 124,
+    "product_name": "HP Elektronika #124",
+    "category_id": 1,
+    "brand": "HP",
+    "unit_price": 557.27,
+    "stock_quantity": 453,
+    "created_at": "2023-07-04"
+  },
+  {
+    "product_id": 125,
+    "product_name": "Philips Məişət texnikası #125",
+    "category_id": 2,
+    "brand": "Philips",
+    "unit_price": 1130.42,
+    "stock_quantity": 143,
+    "created_at": "2024-05-04"
+  },
+  {
+    "product_id": 126,
+    "product_name": "Alatoran Kitab #126",
+    "category_id": 6,
+    "brand": "Alatoran",
+    "unit_price": 8.92,
+    "stock_quantity": 470,
+    "created_at": "2024-01-04"
+  },
+  {
+    "product_id": 127,
+    "product_name": "IKEA Ev və bağ #127",
+    "category_id": 9,
+    "brand": "IKEA",
+    "unit_price": 34.69,
+    "stock_quantity": 150,
+    "created_at": "2024-05-30"
+  },
+  {
+    "product_id": 128,
+    "product_name": "LG Məişət texnikası #128",
+    "category_id": 2,
+    "brand": "LG",
+    "unit_price": 608.25,
+    "stock_quantity": 298,
+    "created_at": "2024-01-06"
+  },
+  {
+    "product_id": 129,
+    "product_name": "Alatoran Kitab #129",
+    "category_id": 6,
+    "brand": "Alatoran",
+    "unit_price": 13.5,
+    "stock_quantity": 114,
+    "created_at": "2023-01-18"
+  },
+  {
+    "product_id": 130,
+    "product_name": "Mattel Oyuncaq #130",
+    "category_id": 8,
+    "brand": "Mattel",
+    "unit_price": 27.93,
+    "stock_quantity": 190,
+    "created_at": "2024-01-24"
+  },
+  {
+    "product_id": 131,
+    "product_name": "Milla Ərzaq #131",
+    "category_id": 10,
+    "brand": "Milla",
+    "unit_price": 6.64,
+    "stock_quantity": 485,
+    "created_at": "2023-10-02"
+  },
+  {
+    "product_id": 132,
+    "product_name": "Xiaomi Elektronika #132",
+    "category_id": 1,
+    "brand": "Xiaomi",
+    "unit_price": 241.28,
+    "stock_quantity": 68,
+    "created_at": "2023-11-19"
+  },
+  {
+    "product_id": 133,
+    "product_name": "LG Məişət texnikası #133",
+    "category_id": 2,
+    "brand": "LG",
+    "unit_price": 941.78,
+    "stock_quantity": 291,
+    "created_at": "2023-07-06"
+  },
+  {
+    "product_id": 134,
+    "product_name": "Dove Kosmetika #134",
+    "category_id": 5,
+    "brand": "Dove",
+    "unit_price": 47.83,
+    "stock_quantity": 374,
+    "created_at": "2023-10-16"
+  },
+  {
+    "product_id": 135,
+    "product_name": "Alatoran Kitab #135",
+    "category_id": 6,
+    "brand": "Alatoran",
+    "unit_price": null,
+    "stock_quantity": 281,
+    "created_at": "2023-04-21"
+  },
+  {
+    "product_id": 136,
+    "product_name": "Tefal Ev və bağ #136",
+    "category_id": 9,
+    "brand": "Tefal",
+    "unit_price": 49.44,
+    "stock_quantity": 331,
+    "created_at": "2023-03-21"
+  },
+  {
+    "product_id": 137,
+    "product_name": "Nestlé Ərzaq #137",
+    "category_id": 10,
+    "brand": "Nestlé",
+    "unit_price": 8.09,
+    "stock_quantity": 386,
+    "created_at": "2023-01-28"
+  },
+  {
+    "product_id": 138,
+    "product_name": "Tefal Ev və bağ #138",
+    "category_id": 9,
+    "brand": "Tefal",
+    "unit_price": 73.89,
+    "stock_quantity": 379,
+    "created_at": "2023-12-25"
+  },
+  {
+    "product_id": 139,
+    "product_name": "Playmobil Oyuncaq #139",
+    "category_id": 8,
+    "brand": "Playmobil",
+    "unit_price": 22.02,
+    "stock_quantity": 444,
+    "created_at": "2023-11-05"
+  },
+  {
+    "product_id": 140,
+    "product_name": "Garnier Kosmetika #140",
+    "category_id": 5,
+    "brand": "Garnier",
+    "unit_price": 32.45,
+    "stock_quantity": 61,
+    "created_at": "2023-09-17"
+  },
+  {
+    "product_id": 141,
+    "product_name": "Mattel Oyuncaq #141",
+    "category_id": 8,
+    "brand": "Mattel",
+    "unit_price": 16.6,
+    "stock_quantity": 2,
+    "created_at": "2023-07-27"
+  },
+  {
+    "product_id": 142,
+    "product_name": "Philips Məişət texnikası #142",
+    "category_id": 2,
+    "brand": "Philips",
+    "unit_price": 498.47,
+    "stock_quantity": 414,
+    "created_at": "2023-07-19"
+  },
+  {
+    "product_id": 143,
+    "product_name": "Dove Kosmetika #143",
+    "category_id": 5,
+    "brand": "Dove",
+    "unit_price": 20.24,
+    "stock_quantity": 225,
+    "created_at": "2024-04-17"
+  },
+  {
+    "product_id": 144,
+    "product_name": "Philips Məişət texnikası #144",
+    "category_id": 2,
+    "brand": "Philips",
+    "unit_price": 198.21,
+    "stock_quantity": 481,
+    "created_at": "2023-04-19"
+  },
+  {
+    "product_id": 145,
+    "product_name": "LC Waikiki Geyim #145",
+    "category_id": 3,
+    "brand": "LC Waikiki",
+    "unit_price": 70.57,
+    "stock_quantity": 298,
+    "created_at": "2024-01-04"
+  },
+  {
+    "product_id": 146,
+    "product_name": "Lenovo Elektronika #146",
+    "category_id": 1,
+    "brand": "Lenovo",
+    "unit_price": 353.25,
+    "stock_quantity": 300,
+    "created_at": "2023-05-24"
+  },
+  {
+    "product_id": 147,
+    "product_name": "Puma Ayaqqabı #147",
+    "category_id": 4,
+    "brand": "Puma",
+    "unit_price": 116.35,
+    "stock_quantity": 422,
+    "created_at": "2024-05-06"
+  },
+  {
+    "product_id": 148,
+    "product_name": "Dove Kosmetika #148",
+    "category_id": 5,
+    "brand": "Dove",
+    "unit_price": 13.11,
+    "stock_quantity": 499,
+    "created_at": "2023-08-02"
+  },
+  {
+    "product_id": 149,
+    "product_name": "Playmobil Oyuncaq #149",
+    "category_id": 8,
+    "brand": "Playmobil",
+    "unit_price": 34.31,
+    "stock_quantity": 103,
+    "created_at": "2023-01-23"
+  },
+  {
+    "product_id": 150,
+    "product_name": "Mattel Oyuncaq #150",
+    "category_id": 8,
+    "brand": "Mattel",
+    "unit_price": 33.05,
+    "stock_quantity": 299,
+    "created_at": "2023-02-13"
+  },
+  {
+    "product_id": 151,
+    "product_name": "Maybelline Kosmetika #151",
+    "category_id": 5,
+    "brand": "Maybelline",
+    "unit_price": 10.69,
+    "stock_quantity": 325,
+    "created_at": "2024-05-08"
+  },
+  {
+    "product_id": 152,
+    "product_name": "Atena Ərzaq #152",
+    "category_id": 10,
+    "brand": "Atena",
+    "unit_price": 6.82,
+    "stock_quantity": 365,
+    "created_at": "2024-04-05"
+  },
+  {
+    "product_id": 153,
+    "product_name": "Gardena Ev və bağ #153",
+    "category_id": 9,
+    "brand": "Gardena",
+    "unit_price": 24.45,
+    "stock_quantity": 154,
+    "created_at": "2023-04-03"
+  },
+  {
+    "product_id": 154,
+    "product_name": "Xan Kitab #154",
+    "category_id": 6,
+    "brand": "Xan",
+    "unit_price": 10.17,
+    "stock_quantity": 15,
+    "created_at": "2023-10-27"
+  },
+  {
+    "product_id": 155,
+    "product_name": "Alatoran Kitab #155",
+    "category_id": 6,
+    "brand": "Alatoran",
+    "unit_price": 13.45,
+    "stock_quantity": 153,
+    "created_at": "2024-02-16"
+  },
+  {
+    "product_id": 156,
+    "product_name": "Adidas İdman #156",
+    "category_id": 7,
+    "brand": "Adidas",
+    "unit_price": 90.86,
+    "stock_quantity": 237,
+    "created_at": "2024-01-18"
+  },
+  {
+    "product_id": 157,
+    "product_name": "Beko Məişət texnikası #157",
+    "category_id": 2,
+    "brand": "Beko",
+    "unit_price": 483.64,
+    "stock_quantity": 428,
+    "created_at": "2023-06-05"
+  },
+  {
+    "product_id": 158,
+    "product_name": "Qanun Kitab #158",
+    "category_id": 6,
+    "brand": "Qanun",
+    "unit_price": 9.08,
+    "stock_quantity": 55,
+    "created_at": "2024-03-18"
+  },
+  {
+    "product_id": 159,
+    "product_name": "Nike Ayaqqabı #159",
+    "category_id": 4,
+    "brand": "Nike",
+    "unit_price": 56.21,
+    "stock_quantity": 356,
+    "created_at": "2023-07-01"
+  },
+  {
+    "product_id": 160,
+    "product_name": "Gardena Ev və bağ #160",
+    "category_id": 9,
+    "brand": "Gardena",
+    "unit_price": 53.21,
+    "stock_quantity": 417,
+    "created_at": "2023-08-14"
+  },
+  {
+    "product_id": 161,
+    "product_name": "Nestlé Ərzaq #161",
+    "category_id": 10,
+    "brand": "Nestlé",
+    "unit_price": 14.37,
+    "stock_quantity": 144,
+    "created_at": "2023-11-24"
+  },
+  {
+    "product_id": 162,
+    "product_name": "Reebok İdman #162",
+    "category_id": 7,
+    "brand": "Reebok",
+    "unit_price": 243.08,
+    "stock_quantity": 14,
+    "created_at": "2023-03-04"
+  },
+  {
+    "product_id": 163,
+    "product_name": "Puma İdman #163",
+    "category_id": 7,
+    "brand": "Puma",
+    "unit_price": 49.02,
+    "stock_quantity": 283,
+    "created_at": "2024-02-21"
+  },
+  {
+    "product_id": 164,
+    "product_name": "Ecco Ayaqqabı #164",
+    "category_id": 4,
+    "brand": "Ecco",
+    "unit_price": 51.63,
+    "stock_quantity": 138,
+    "created_at": "2023-06-13"
+  },
+  {
+    "product_id": 165,
+    "product_name": "Bakı Kitab Kitab #165",
+    "category_id": 6,
+    "brand": "Bakı Kitab",
+    "unit_price": 22.03,
+    "stock_quantity": 214,
+    "created_at": "2023-09-13"
+  },
+  {
+    "product_id": 166,
+    "product_name": "Atena Ərzaq #166",
+    "category_id": 10,
+    "brand": "Atena",
+    "unit_price": 9.57,
+    "stock_quantity": 259,
+    "created_at": "2023-02-07"
+  },
+  {
+    "product_id": 167,
+    "product_name": "Qanun Kitab #167",
+    "category_id": 6,
+    "brand": "Qanun",
+    "unit_price": 14.23,
+    "stock_quantity": 377,
+    "created_at": "2023-12-05"
+  },
+  {
+    "product_id": 168,
+    "product_name": "Hasbro Oyuncaq #168",
+    "category_id": 8,
+    "brand": "Hasbro",
+    "unit_price": 36.21,
+    "stock_quantity": 221,
+    "created_at": "2023-07-06"
+  },
+  {
+    "product_id": 169,
+    "product_name": "Adidas İdman #169",
+    "category_id": 7,
+    "brand": "Adidas",
+    "unit_price": 82.98,
+    "stock_quantity": 113,
+    "created_at": "2024-04-28"
+  },
+  {
+    "product_id": 170,
+    "product_name": "Nike İdman #170",
+    "category_id": 7,
+    "brand": "Nike",
+    "unit_price": 99.81,
+    "stock_quantity": 13,
+    "created_at": "2024-06-02"
+  },
+  {
+    "product_id": 171,
+    "product_name": "Samsung Elektronika #171",
+    "category_id": 1,
+    "brand": "Samsung",
+    "unit_price": 1171.7,
+    "stock_quantity": 265,
+    "created_at": "2023-01-06"
+  },
+  {
+    "product_id": 172,
+    "product_name": "Maybelline Kosmetika #172",
+    "category_id": 5,
+    "brand": "Maybelline",
+    "unit_price": 28.69,
+    "stock_quantity": 9,
+    "created_at": "2023-12-12"
+  },
+  {
+    "product_id": 173,
+    "product_name": "Nike Ayaqqabı #173",
+    "category_id": 4,
+    "brand": "Nike",
+    "unit_price": 102.59,
+    "stock_quantity": 386,
+    "created_at": "2023-09-05"
+  },
+  {
+    "product_id": 174,
+    "product_name": "Az-Granata Ərzaq #174",
+    "category_id": 10,
+    "brand": "Az-Granata",
+    "unit_price": 9.97,
+    "stock_quantity": 423,
+    "created_at": "2023-04-07"
+  },
+  {
+    "product_id": 175,
+    "product_name": "Puma İdman #175",
+    "category_id": 7,
+    "brand": "Puma",
+    "unit_price": 113.95,
+    "stock_quantity": 368,
+    "created_at": "2023-03-03"
+  },
+  {
+    "product_id": 176,
+    "product_name": "Decathlon İdman #176",
+    "category_id": 7,
+    "brand": "Decathlon",
+    "unit_price": 56.24,
+    "stock_quantity": 245,
+    "created_at": "2024-02-22"
+  },
+  {
+    "product_id": 177,
+    "product_name": "Dove Kosmetika #177",
+    "category_id": 5,
+    "brand": "Dove",
+    "unit_price": 54.66,
+    "stock_quantity": 351,
+    "created_at": "2023-10-29"
+  },
+  {
+    "product_id": 178,
+    "product_name": "Skechers Ayaqqabı #178",
+    "category_id": 4,
+    "brand": "Skechers",
+    "unit_price": 198.33,
+    "stock_quantity": 51,
+    "created_at": "2023-10-11"
+  },
+  {
+    "product_id": 179,
+    "product_name": "Arçelik Məişət texnikası #179",
+    "category_id": 2,
+    "brand": "Arçelik",
+    "unit_price": 937.57,
+    "stock_quantity": 421,
+    "created_at": "2024-04-14"
+  },
+  {
+    "product_id": 180,
+    "product_name": "Gardena Ev və bağ #180",
+    "category_id": 9,
+    "brand": "Gardena",
+    "unit_price": 108.64,
+    "stock_quantity": 2,
+    "created_at": "2023-09-23"
+  },
+  {
+    "product_id": 181,
+    "product_name": "Hasbro Oyuncaq #181",
+    "category_id": 8,
+    "brand": "Hasbro",
+    "unit_price": 44.62,
+    "stock_quantity": 321,
+    "created_at": "2024-05-13"
+  },
+  {
+    "product_id": 182,
+    "product_name": "Sevimli Dad Ərzaq #182",
+    "category_id": 10,
+    "brand": "Sevimli Dad",
+    "unit_price": 16.68,
+    "stock_quantity": 24,
+    "created_at": "2023-06-27"
+  },
+  {
+    "product_id": 183,
+    "product_name": "Hasbro Oyuncaq #183",
+    "category_id": 8,
+    "brand": "Hasbro",
+    "unit_price": 43.37,
+    "stock_quantity": 327,
+    "created_at": "2024-01-24"
+  },
+  {
+    "product_id": 184,
+    "product_name": "Karaca Ev və bağ #184",
+    "category_id": 9,
+    "brand": "Karaca",
+    "unit_price": 100.57,
+    "stock_quantity": 466,
+    "created_at": "2023-05-15"
+  },
+  {
+    "product_id": 185,
+    "product_name": "Samsung Elektronika #185",
+    "category_id": 1,
+    "brand": "Samsung",
+    "unit_price": 493.94,
+    "stock_quantity": 63,
+    "created_at": "2024-04-26"
+  },
+  {
+    "product_id": 186,
+    "product_name": "Xiaomi Elektronika #186",
+    "category_id": 1,
+    "brand": "Xiaomi",
+    "unit_price": 583.26,
+    "stock_quantity": 302,
+    "created_at": "2024-04-16"
+  },
+  {
+    "product_id": 187,
+    "product_name": "Xan Kitab #187",
+    "category_id": 6,
+    "brand": "Xan",
+    "unit_price": 16.33,
+    "stock_quantity": 461,
+    "created_at": "2024-02-27"
+  },
+  {
+    "product_id": 188,
+    "product_name": "Puma İdman #188",
+    "category_id": 7,
+    "brand": "Puma",
+    "unit_price": 98.49,
+    "stock_quantity": 466,
+    "created_at": "2023-12-14"
+  },
+  {
+    "product_id": 189,
+    "product_name": "TEAS Press Kitab #189",
+    "category_id": 6,
+    "brand": "TEAS Press",
+    "unit_price": 47.34,
+    "stock_quantity": 226,
+    "created_at": "2024-03-27"
+  },
+  {
+    "product_id": 190,
+    "product_name": "Puma Ayaqqabı #190",
+    "category_id": 4,
+    "brand": "Puma",
+    "unit_price": 109.68,
+    "stock_quantity": 184,
+    "created_at": "2023-02-01"
+  },
+  {
+    "product_id": 191,
+    "product_name": "LG Məişət texnikası #191",
+    "category_id": 2,
+    "brand": "LG",
+    "unit_price": 318.13,
+    "stock_quantity": 125,
+    "created_at": "2024-01-29"
+  },
+  {
+    "product_id": 192,
+    "product_name": "LG Məişət texnikası #192",
+    "category_id": 2,
+    "brand": "LG",
+    "unit_price": 1056.28,
+    "stock_quantity": 399,
+    "created_at": "2023-05-02"
+  },
+  {
+    "product_id": 193,
+    "product_name": "Alatoran Kitab #193",
+    "category_id": 6,
+    "brand": "Alatoran",
+    "unit_price": 10.5,
+    "stock_quantity": 308,
+    "created_at": "2023-09-07"
+  },
+  {
+    "product_id": 194,
+    "product_name": "Nestlé Ərzaq #194",
+    "category_id": 10,
+    "brand": "Nestlé",
+    "unit_price": 16.78,
+    "stock_quantity": 449,
+    "created_at": "2024-03-16"
+  },
+  {
+    "product_id": 195,
+    "product_name": "Skechers Ayaqqabı #195",
+    "category_id": 4,
+    "brand": "Skechers",
+    "unit_price": 107.65,
+    "stock_quantity": 289,
+    "created_at": "2024-02-11"
+  },
+  {
+    "product_id": 196,
+    "product_name": "IKEA Ev və bağ #196",
+    "category_id": 9,
+    "brand": "IKEA",
+    "unit_price": 36.55,
+    "stock_quantity": 468,
+    "created_at": "2023-01-22"
+  },
+  {
+    "product_id": 197,
+    "product_name": "Adidas İdman #197",
+    "category_id": 7,
+    "brand": "Adidas",
+    "unit_price": 68.21,
+    "stock_quantity": 344,
+    "created_at": "2023-12-04"
+  },
+  {
+    "product_id": 198,
+    "product_name": "Alatoran Kitab #198",
+    "category_id": 6,
+    "brand": "Alatoran",
+    "unit_price": 9.04,
+    "stock_quantity": 90,
+    "created_at": "2023-01-22"
+  },
+  {
+    "product_id": 199,
+    "product_name": "Lenovo Elektronika #199",
+    "category_id": 1,
+    "brand": "Lenovo",
+    "unit_price": 518.05,
+    "stock_quantity": 310,
+    "created_at": "2024-03-18"
+  },
+  {
+    "product_id": 200,
+    "product_name": "Garnier Kosmetika #200",
+    "category_id": 5,
+    "brand": "Garnier",
+    "unit_price": 40.39,
+    "stock_quantity": 380,
+    "created_at": "2023-06-21"
+  },
+  {
+    "product_id": 201,
+    "product_name": "Skechers Ayaqqabı #201",
+    "category_id": 4,
+    "brand": "Skechers",
+    "unit_price": 54.67,
+    "stock_quantity": 488,
+    "created_at": "2023-04-23"
+  },
+  {
+    "product_id": 202,
+    "product_name": "Bosch Məişət texnikası #202",
+    "category_id": 2,
+    "brand": "Bosch",
+    "unit_price": 784.92,
+    "stock_quantity": 64,
+    "created_at": "2023-03-25"
+  },
+  {
+    "product_id": 203,
+    "product_name": "TEAS Press Kitab #203",
+    "category_id": 6,
+    "brand": "TEAS Press",
+    "unit_price": 12.35,
+    "stock_quantity": 399,
+    "created_at": "2024-01-12"
+  },
+  {
+    "product_id": 204,
+    "product_name": "Adidas Ayaqqabı #204",
+    "category_id": 4,
+    "brand": "Adidas",
+    "unit_price": 88.17,
+    "stock_quantity": 447,
+    "created_at": "2023-07-29"
+  },
+  {
+    "product_id": 205,
+    "product_name": "Sevimli Dad Ərzaq #205",
+    "category_id": 10,
+    "brand": "Sevimli Dad",
+    "unit_price": 19.39,
+    "stock_quantity": 50,
+    "created_at": "2023-07-05"
+  },
+  {
+    "product_id": 206,
+    "product_name": "LC Waikiki Geyim #206",
+    "category_id": 3,
+    "brand": "LC Waikiki",
+    "unit_price": 49.7,
+    "stock_quantity": 229,
+    "created_at": "2024-01-26"
+  },
+  {
+    "product_id": 207,
+    "product_name": "Puma İdman #207",
+    "category_id": 7,
+    "brand": "Puma",
+    "unit_price": 59.63,
+    "stock_quantity": 406,
+    "created_at": "2023-01-01"
+  },
+  {
+    "product_id": 208,
+    "product_name": "Ecco Ayaqqabı #208",
+    "category_id": 4,
+    "brand": "Ecco",
+    "unit_price": 143.44,
+    "stock_quantity": 171,
+    "created_at": "2024-05-18"
+  },
+  {
+    "product_id": 209,
+    "product_name": "LC Waikiki Geyim #209",
+    "category_id": 3,
+    "brand": "LC Waikiki",
+    "unit_price": 75.9,
+    "stock_quantity": 492,
+    "created_at": "2023-10-30"
+  },
+  {
+    "product_id": 210,
+    "product_name": "Reebok İdman #210",
+    "category_id": 7,
+    "brand": "Reebok",
+    "unit_price": 167.29,
+    "stock_quantity": 287,
+    "created_at": "2023-08-30"
+  },
+  {
+    "product_id": 211,
+    "product_name": "Chicco Oyuncaq #211",
+    "category_id": 8,
+    "brand": "Chicco",
+    "unit_price": 43.56,
+    "stock_quantity": 349,
+    "created_at": "2024-06-04"
+  },
+  {
+    "product_id": 212,
+    "product_name": "IKEA Ev və bağ #212",
+    "category_id": 9,
+    "brand": "IKEA",
+    "unit_price": 31.67,
+    "stock_quantity": 398,
+    "created_at": "2023-08-03"
+  },
+  {
+    "product_id": 213,
+    "product_name": "Mattel Oyuncaq #213",
+    "category_id": 8,
+    "brand": "Mattel",
+    "unit_price": 29.08,
+    "stock_quantity": 358,
+    "created_at": "2023-08-12"
+  },
+  {
+    "product_id": 214,
+    "product_name": "Mango Geyim #214",
+    "category_id": 3,
+    "brand": "Mango",
+    "unit_price": 61.91,
+    "stock_quantity": 237,
+    "created_at": "2023-12-14"
+  },
+  {
+    "product_id": 215,
+    "product_name": "Tefal Ev və bağ #215",
+    "category_id": 9,
+    "brand": "Tefal",
+    "unit_price": 58.08,
+    "stock_quantity": 321,
+    "created_at": "2024-04-19"
+  },
+  {
+    "product_id": 216,
+    "product_name": "Nivea Kosmetika #216",
+    "category_id": 5,
+    "brand": "Nivea",
+    "unit_price": 18.85,
+    "stock_quantity": 106,
+    "created_at": "2023-10-23"
+  },
+  {
+    "product_id": 217,
+    "product_name": "Nivea Kosmetika #217",
+    "category_id": 5,
+    "brand": "Nivea",
+    "unit_price": 16.35,
+    "stock_quantity": 119,
+    "created_at": "2023-06-14"
+  },
+  {
+    "product_id": 218,
+    "product_name": "Skechers Ayaqqabı #218",
+    "category_id": 4,
+    "brand": "Skechers",
+    "unit_price": 74.15,
+    "stock_quantity": 400,
+    "created_at": "2023-08-24"
+  },
+  {
+    "product_id": 219,
+    "product_name": "TEAS Press Kitab #219",
+    "category_id": 6,
+    "brand": "TEAS Press",
+    "unit_price": 21.64,
+    "stock_quantity": 219,
+    "created_at": "2024-05-09"
+  },
+  {
+    "product_id": 220,
+    "product_name": "Nike Ayaqqabı #220",
+    "category_id": 4,
+    "brand": "Nike",
+    "unit_price": 79.93,
+    "stock_quantity": 282,
+    "created_at": "2024-02-18"
+  },
+  {
+    "product_id": 221,
+    "product_name": "Bosch Məişət texnikası #221",
+    "category_id": 2,
+    "brand": "Bosch",
+    "unit_price": 327.82,
+    "stock_quantity": 382,
+    "created_at": "2023-01-25"
+  },
+  {
+    "product_id": 222,
+    "product_name": "Nike Ayaqqabı #222",
+    "category_id": 4,
+    "brand": "Nike",
+    "unit_price": 83.3,
+    "stock_quantity": 389,
+    "created_at": "2023-05-15"
+  },
+  {
+    "product_id": 223,
+    "product_name": "Mango Geyim #223",
+    "category_id": 3,
+    "brand": "Mango",
+    "unit_price": 42.33,
+    "stock_quantity": 54,
+    "created_at": "2024-05-07"
+  },
+  {
+    "product_id": 224,
+    "product_name": "Karaca Ev və bağ #224",
+    "category_id": 9,
+    "brand": "Karaca",
+    "unit_price": 139.81,
+    "stock_quantity": 405,
+    "created_at": "2024-02-28"
+  },
+  {
+    "product_id": 225,
+    "product_name": "H&M Geyim #225",
+    "category_id": 3,
+    "brand": "H&M",
+    "unit_price": 91.25,
+    "stock_quantity": 470,
+    "created_at": "2023-02-13"
+  },
+  {
+    "product_id": 226,
+    "product_name": "Milla Ərzaq #226",
+    "category_id": 10,
+    "brand": "Milla",
+    "unit_price": 8.38,
+    "stock_quantity": 490,
+    "created_at": "2023-09-14"
+  },
+  {
+    "product_id": 227,
+    "product_name": "H&M Geyim #227",
+    "category_id": 3,
+    "brand": "H&M",
+    "unit_price": 49.18,
+    "stock_quantity": 443,
+    "created_at": "2023-04-26"
+  },
+  {
+    "product_id": 228,
+    "product_name": "TEAS Press Kitab #228",
+    "category_id": 6,
+    "brand": "TEAS Press",
+    "unit_price": 9.14,
+    "stock_quantity": 216,
+    "created_at": "2023-04-08"
+  },
+  {
+    "product_id": 229,
+    "product_name": "Adidas Ayaqqabı #229",
+    "category_id": 4,
+    "brand": "Adidas",
+    "unit_price": null,
+    "stock_quantity": 54,
+    "created_at": "2023-12-11"
+  },
+  {
+    "product_id": 230,
+    "product_name": "Az-Granata Ərzaq #230",
+    "category_id": 10,
+    "brand": "Az-Granata",
+    "unit_price": 10.17,
+    "stock_quantity": 340,
+    "created_at": "2023-05-21"
+  },
+  {
+    "product_id": 231,
+    "product_name": "Paşabahçe Ev və bağ #231",
+    "category_id": 9,
+    "brand": "Paşabahçe",
+    "unit_price": 61.95,
+    "stock_quantity": 181,
+    "created_at": "2023-07-26"
+  },
+  {
+    "product_id": 232,
+    "product_name": "Qanun Kitab #232",
+    "category_id": 6,
+    "brand": "Qanun",
+    "unit_price": 11.18,
+    "stock_quantity": 195,
+    "created_at": "2024-03-24"
+  },
+  {
+    "product_id": 233,
+    "product_name": "Puma İdman #233",
+    "category_id": 7,
+    "brand": "Puma",
+    "unit_price": 40.58,
+    "stock_quantity": 259,
+    "created_at": "2024-05-02"
+  },
+  {
+    "product_id": 234,
+    "product_name": "Koton Geyim #234",
+    "category_id": 3,
+    "brand": "Koton",
+    "unit_price": 35.29,
+    "stock_quantity": 206,
+    "created_at": "2023-05-20"
+  },
+  {
+    "product_id": 235,
+    "product_name": "LC Waikiki Geyim #235",
+    "category_id": 3,
+    "brand": "LC Waikiki",
+    "unit_price": 52.81,
+    "stock_quantity": 453,
+    "created_at": "2023-02-12"
+  },
+  {
+    "product_id": 236,
+    "product_name": "Puma İdman #236",
+    "category_id": 7,
+    "brand": "Puma",
+    "unit_price": 53.57,
+    "stock_quantity": 375,
+    "created_at": "2024-05-03"
+  },
+  {
+    "product_id": 237,
+    "product_name": "Xiaomi Elektronika #237",
+    "category_id": 1,
+    "brand": "Xiaomi",
+    "unit_price": 1171.03,
+    "stock_quantity": 195,
+    "created_at": "2023-06-23"
+  },
+  {
+    "product_id": 238,
+    "product_name": "HP Elektronika #238",
+    "category_id": 1,
+    "brand": "HP",
+    "unit_price": 1060.58,
+    "stock_quantity": 466,
+    "created_at": "2023-04-30"
+  },
+  {
+    "product_id": 239,
+    "product_name": "LC Waikiki Geyim #239",
+    "category_id": 3,
+    "brand": "LC Waikiki",
+    "unit_price": 78.56,
+    "stock_quantity": 224,
+    "created_at": "2024-03-09"
+  },
+  {
+    "product_id": 240,
+    "product_name": "Reebok İdman #240",
+    "category_id": 7,
+    "brand": "Reebok",
+    "unit_price": 30.84,
+    "stock_quantity": 373,
+    "created_at": "2024-05-09"
+  },
+  {
+    "product_id": 241,
+    "product_name": "Garnier Kosmetika #241",
+    "category_id": 5,
+    "brand": "Garnier",
+    "unit_price": 32.72,
+    "stock_quantity": 172,
+    "created_at": "2023-11-21"
+  },
+  {
+    "product_id": 242,
+    "product_name": "Maybelline Kosmetika #242",
+    "category_id": 5,
+    "brand": "Maybelline",
+    "unit_price": 31.93,
+    "stock_quantity": 68,
+    "created_at": "2023-03-25"
+  },
+  {
+    "product_id": 243,
+    "product_name": "Ecco Ayaqqabı #243",
+    "category_id": 4,
+    "brand": "Ecco",
+    "unit_price": 81.65,
+    "stock_quantity": 433,
+    "created_at": "2023-06-11"
+  },
+  {
+    "product_id": 244,
+    "product_name": "Playmobil Oyuncaq #244",
+    "category_id": 8,
+    "brand": "Playmobil",
+    "unit_price": 32.3,
+    "stock_quantity": 170,
+    "created_at": "2023-02-08"
+  },
+  {
+    "product_id": 245,
+    "product_name": "Karaca Ev və bağ #245",
+    "category_id": 9,
+    "brand": "Karaca",
+    "unit_price": 46.94,
+    "stock_quantity": 461,
+    "created_at": "2023-12-13"
+  },
+  {
+    "product_id": 246,
+    "product_name": "Lenovo Elektronika #246",
+    "category_id": 1,
+    "brand": "Lenovo",
+    "unit_price": 346.33,
+    "stock_quantity": 373,
+    "created_at": "2023-07-29"
+  },
+  {
+    "product_id": 247,
+    "product_name": "TEAS Press Kitab #247",
+    "category_id": 6,
+    "brand": "TEAS Press",
+    "unit_price": 14.4,
+    "stock_quantity": 351,
+    "created_at": "2023-11-20"
+  },
+  {
+    "product_id": 248,
+    "product_name": "Zara Geyim #248",
+    "category_id": 3,
+    "brand": "Zara",
+    "unit_price": 41.77,
+    "stock_quantity": 468,
+    "created_at": "2024-05-19"
+  },
+  {
+    "product_id": 249,
+    "product_name": "Alatoran Kitab #249",
+    "category_id": 6,
+    "brand": "Alatoran",
+    "unit_price": 19.03,
+    "stock_quantity": 179,
+    "created_at": "2024-06-10"
+  },
+  {
+    "product_id": 250,
+    "product_name": "Garnier Kosmetika #250",
+    "category_id": 5,
+    "brand": "Garnier",
+    "unit_price": 53.24,
+    "stock_quantity": 22,
+    "created_at": "2024-02-08"
+  },
+  {
+    "product_id": 251,
+    "product_name": "Hasbro Oyuncaq #251",
+    "category_id": 8,
+    "brand": "Hasbro",
+    "unit_price": 38.74,
+    "stock_quantity": 397,
+    "created_at": "2023-04-23"
+  },
+  {
+    "product_id": 252,
+    "product_name": "Qanun Kitab #252",
+    "category_id": 6,
+    "brand": "Qanun",
+    "unit_price": 6.9,
+    "stock_quantity": 21,
+    "created_at": "2023-02-17"
+  },
+  {
+    "product_id": 253,
+    "product_name": "Puma İdman #253",
+    "category_id": 7,
+    "brand": "Puma",
+    "unit_price": 53.79,
+    "stock_quantity": 352,
+    "created_at": "2023-10-07"
+  },
+  {
+    "product_id": 254,
+    "product_name": "IKEA Ev və bağ #254",
+    "category_id": 9,
+    "brand": "IKEA",
+    "unit_price": 48.28,
+    "stock_quantity": 485,
+    "created_at": "2024-06-28"
+  },
+  {
+    "product_id": 255,
+    "product_name": "Nivea Kosmetika #255",
+    "category_id": 5,
+    "brand": "Nivea",
+    "unit_price": 29.63,
+    "stock_quantity": 495,
+    "created_at": "2023-10-06"
+  },
+  {
+    "product_id": 256,
+    "product_name": "Dove Kosmetika #256",
+    "category_id": 5,
+    "brand": "Dove",
+    "unit_price": 29.74,
+    "stock_quantity": 105,
+    "created_at": "2023-06-27"
+  },
+  {
+    "product_id": 257,
+    "product_name": "Puma İdman #257",
+    "category_id": 7,
+    "brand": "Puma",
+    "unit_price": 78.27,
+    "stock_quantity": 443,
+    "created_at": "2023-03-19"
+  },
+  {
+    "product_id": 258,
+    "product_name": "LEGO Oyuncaq #258",
+    "category_id": 8,
+    "brand": "LEGO",
+    "unit_price": 17.62,
+    "stock_quantity": 354,
+    "created_at": "2023-12-03"
+  },
+  {
+    "product_id": 259,
+    "product_name": "Bakı Kitab Kitab #259",
+    "category_id": 6,
+    "brand": "Bakı Kitab",
+    "unit_price": 12.6,
+    "stock_quantity": 119,
+    "created_at": "2023-05-23"
+  },
+  {
+    "product_id": 260,
+    "product_name": "Puma Ayaqqabı #260",
+    "category_id": 4,
+    "brand": "Puma",
+    "unit_price": 92.76,
+    "stock_quantity": 311,
+    "created_at": "2023-07-31"
+  },
+  {
+    "product_id": 261,
+    "product_name": "Bosch Məişət texnikası #261",
+    "category_id": 2,
+    "brand": "Bosch",
+    "unit_price": 284.91,
+    "stock_quantity": 432,
+    "created_at": "2024-02-09"
+  },
+  {
+    "product_id": 262,
+    "product_name": "Sevimli Dad Ərzaq #262",
+    "category_id": 10,
+    "brand": "Sevimli Dad",
+    "unit_price": 11.02,
+    "stock_quantity": 202,
+    "created_at": "2023-11-25"
+  },
+  {
+    "product_id": 263,
+    "product_name": "Puma İdman #263",
+    "category_id": 7,
+    "brand": "Puma",
+    "unit_price": 40.52,
+    "stock_quantity": 322,
+    "created_at": "2023-01-19"
+  },
+  {
+    "product_id": 264,
+    "product_name": "LC Waikiki Geyim #264",
+    "category_id": 3,
+    "brand": "LC Waikiki",
+    "unit_price": 63.94,
+    "stock_quantity": 394,
+    "created_at": "2023-09-06"
+  },
+  {
+    "product_id": 265,
+    "product_name": "Maybelline Kosmetika #265",
+    "category_id": 5,
+    "brand": "Maybelline",
+    "unit_price": 41.02,
+    "stock_quantity": 367,
+    "created_at": "2024-06-08"
+  },
+  {
+    "product_id": 266,
+    "product_name": "Milla Ərzaq #266",
+    "category_id": 10,
+    "brand": "Milla",
+    "unit_price": 11.43,
+    "stock_quantity": 163,
+    "created_at": "2024-01-29"
+  },
+  {
+    "product_id": 267,
+    "product_name": "Xiaomi Elektronika #267",
+    "category_id": 1,
+    "brand": "Xiaomi",
+    "unit_price": 571.55,
+    "stock_quantity": 171,
+    "created_at": "2023-10-21"
+  },
+  {
+    "product_id": 268,
+    "product_name": "Zara Geyim #268",
+    "category_id": 3,
+    "brand": "Zara",
+    "unit_price": 89.18,
+    "stock_quantity": 222,
+    "created_at": "2024-06-29"
+  },
+  {
+    "product_id": 269,
+    "product_name": "Gardena Ev və bağ #269",
+    "category_id": 9,
+    "brand": "Gardena",
+    "unit_price": 49.46,
+    "stock_quantity": 149,
+    "created_at": "2024-04-20"
+  },
+  {
+    "product_id": 270,
+    "product_name": "Puma İdman #270",
+    "category_id": 7,
+    "brand": "Puma",
+    "unit_price": 79.11,
+    "stock_quantity": 38,
+    "created_at": "2023-04-07"
+  },
+  {
+    "product_id": 271,
+    "product_name": "Nike Ayaqqabı #271",
+    "category_id": 4,
+    "brand": "Nike",
+    "unit_price": 56.68,
+    "stock_quantity": 400,
+    "created_at": "2023-04-07"
+  },
+  {
+    "product_id": 272,
+    "product_name": "Mattel Oyuncaq #272",
+    "category_id": 8,
+    "brand": "Mattel",
+    "unit_price": 35.13,
+    "stock_quantity": 5,
+    "created_at": "2024-03-27"
+  },
+  {
+    "product_id": 273,
+    "product_name": "Mattel Oyuncaq #273",
+    "category_id": 8,
+    "brand": "Mattel",
+    "unit_price": 38.38,
+    "stock_quantity": 192,
+    "created_at": "2024-05-21"
+  },
+  {
+    "product_id": 274,
+    "product_name": "Samsung Elektronika #274",
+    "category_id": 1,
+    "brand": "Samsung",
+    "unit_price": 698.5,
+    "stock_quantity": 290,
+    "created_at": "2023-01-31"
+  },
+  {
+    "product_id": 275,
+    "product_name": "Maybelline Kosmetika #275",
+    "category_id": 5,
+    "brand": "Maybelline",
+    "unit_price": 47.74,
+    "stock_quantity": 386,
+    "created_at": "2023-04-21"
+  },
+  {
+    "product_id": 276,
+    "product_name": "Qanun Kitab #276",
+    "category_id": 6,
+    "brand": "Qanun",
+    "unit_price": 13.04,
+    "stock_quantity": 81,
+    "created_at": "2024-03-24"
+  },
+  {
+    "product_id": 277,
+    "product_name": "Bakı Kitab Kitab #277",
+    "category_id": 6,
+    "brand": "Bakı Kitab",
+    "unit_price": 37.18,
+    "stock_quantity": 352,
+    "created_at": "2023-06-11"
+  },
+  {
+    "product_id": 278,
+    "product_name": "Lenovo Elektronika #278",
+    "category_id": 1,
+    "brand": "Lenovo",
+    "unit_price": 325.16,
+    "stock_quantity": 61,
+    "created_at": "2024-06-20"
+  },
+  {
+    "product_id": 279,
+    "product_name": "Samsung Elektronika #279",
+    "category_id": 1,
+    "brand": "Samsung",
+    "unit_price": 594.53,
+    "stock_quantity": 314,
+    "created_at": "2024-03-11"
+  },
+  {
+    "product_id": 280,
+    "product_name": "Zara Geyim #280",
+    "category_id": 3,
+    "brand": "Zara",
+    "unit_price": null,
+    "stock_quantity": 56,
+    "created_at": "2023-09-13"
+  },
+  {
+    "product_id": 281,
+    "product_name": "Az-Granata Ərzaq #281",
+    "category_id": 10,
+    "brand": "Az-Granata",
+    "unit_price": 8.21,
+    "stock_quantity": 138,
+    "created_at": "2023-04-05"
+  },
+  {
+    "product_id": 282,
+    "product_name": "Chicco Oyuncaq #282",
+    "category_id": 8,
+    "brand": "Chicco",
+    "unit_price": 29.87,
+    "stock_quantity": 127,
+    "created_at": "2023-10-31"
+  },
+  {
+    "product_id": 283,
+    "product_name": "Nestlé Ərzaq #283",
+    "category_id": 10,
+    "brand": "Nestlé",
+    "unit_price": 8.19,
+    "stock_quantity": 166,
+    "created_at": "2023-01-24"
+  },
+  {
+    "product_id": 284,
+    "product_name": "Hasbro Oyuncaq #284",
+    "category_id": 8,
+    "brand": "Hasbro",
+    "unit_price": 36.11,
+    "stock_quantity": 114,
+    "created_at": "2023-06-16"
+  },
+  {
+    "product_id": 285,
+    "product_name": "Paşabahçe Ev və bağ #285",
+    "category_id": 9,
+    "brand": "Paşabahçe",
+    "unit_price": 62.81,
+    "stock_quantity": 465,
+    "created_at": "2023-11-03"
+  },
+  {
+    "product_id": 286,
+    "product_name": "Milla Ərzaq #286",
+    "category_id": 10,
+    "brand": "Milla",
+    "unit_price": 11.49,
+    "stock_quantity": 246,
+    "created_at": "2023-04-06"
+  },
+  {
+    "product_id": 287,
+    "product_name": "LG Məişət texnikası #287",
+    "category_id": 2,
+    "brand": "LG",
+    "unit_price": 430.76,
+    "stock_quantity": 57,
+    "created_at": "2023-06-08"
+  },
+  {
+    "product_id": 288,
+    "product_name": "Qanun Kitab #288",
+    "category_id": 6,
+    "brand": "Qanun",
+    "unit_price": 14.52,
+    "stock_quantity": 204,
+    "created_at": "2023-05-17"
+  },
+  {
+    "product_id": 289,
+    "product_name": "Beko Məişət texnikası #289",
+    "category_id": 2,
+    "brand": "Beko",
+    "unit_price": null,
+    "stock_quantity": 73,
+    "created_at": "2023-11-06"
+  },
+  {
+    "product_id": 290,
+    "product_name": "Reebok İdman #290",
+    "category_id": 7,
+    "brand": "Reebok",
+    "unit_price": 49.19,
+    "stock_quantity": 129,
+    "created_at": "2024-02-16"
+  },
+  {
+    "product_id": 291,
+    "product_name": "Adidas İdman #291",
+    "category_id": 7,
+    "brand": "Adidas",
+    "unit_price": 78.96,
+    "stock_quantity": 453,
+    "created_at": "2023-03-31"
+  },
+  {
+    "product_id": 292,
+    "product_name": "Xiaomi Elektronika #292",
+    "category_id": 1,
+    "brand": "Xiaomi",
+    "unit_price": 1932.26,
+    "stock_quantity": 242,
+    "created_at": "2023-07-01"
+  },
+  {
+    "product_id": 293,
+    "product_name": "Arçelik Məişət texnikası #293",
+    "category_id": 2,
+    "brand": "Arçelik",
+    "unit_price": 396.91,
+    "stock_quantity": 398,
+    "created_at": "2023-02-04"
+  },
+  {
+    "product_id": 294,
+    "product_name": "Nestlé Ərzaq #294",
+    "category_id": 10,
+    "brand": "Nestlé",
+    "unit_price": 8.81,
+    "stock_quantity": 81,
+    "created_at": "2023-02-08"
+  },
+  {
+    "product_id": 295,
+    "product_name": "Garnier Kosmetika #295",
+    "category_id": 5,
+    "brand": "Garnier",
+    "unit_price": 13.64,
+    "stock_quantity": 171,
+    "created_at": "2024-03-22"
+  },
+  {
+    "product_id": 296,
+    "product_name": "Skechers Ayaqqabı #296",
+    "category_id": 4,
+    "brand": "Skechers",
+    "unit_price": 92.88,
+    "stock_quantity": 72,
+    "created_at": "2024-01-24"
+  },
+  {
+    "product_id": 297,
+    "product_name": "Playmobil Oyuncaq #297",
+    "category_id": 8,
+    "brand": "Playmobil",
+    "unit_price": 81.66,
+    "stock_quantity": 33,
+    "created_at": "2023-09-18"
+  },
+  {
+    "product_id": 298,
+    "product_name": "Mattel Oyuncaq #298",
+    "category_id": 8,
+    "brand": "Mattel",
+    "unit_price": 34.82,
+    "stock_quantity": 322,
+    "created_at": "2023-11-30"
+  },
+  {
+    "product_id": 299,
+    "product_name": "Bakı Kitab Kitab #299",
+    "category_id": 6,
+    "brand": "Bakı Kitab",
+    "unit_price": 19.54,
+    "stock_quantity": 462,
+    "created_at": "2024-01-06"
+  },
+  {
+    "product_id": 300,
+    "product_name": "Ecco Ayaqqabı #300",
+    "category_id": 4,
+    "brand": "Ecco",
+    "unit_price": 102.4,
+    "stock_quantity": 176,
+    "created_at": "2024-01-09"
+  }
+]
