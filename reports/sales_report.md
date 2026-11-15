@@ -31,11 +31,11 @@
 
 | segment      |   customers |   avg_orders |   avg_spent |    total_revenue |   revenue_share_pct |
 |:-------------|------------:|-------------:|------------:|-----------------:|--------------------:|
-| VIP          |         449 |         5.98 |     3527.38 |      1.58379e+06 |               53.22 |
+| VIP          |         441 |         6.06 |     3556.64 |      1.56848e+06 |               52.71 |
 | Risk altında |         355 |         3.03 |     2506.62 | 889851           |               29.9  |
-| Sadiq        |         328 |         2.65 |      837.94 | 274844           |                9.24 |
+| Sadiq        |         333 |         2.65 |      870.57 | 289899           |                9.74 |
 | Passiv       |         533 |         1.73 |      320.73 | 170950           |                5.74 |
-| Yeni / aktiv |         110 |         1    |      511.75 |  56292.9         |                1.89 |
+| Yeni / aktiv |         113 |         1    |      500.48 |  56554.5         |                1.9  |
 
 ## Ödəniş üsulları
 
@@ -52,15 +52,15 @@
 
 | query                            | description                                                                                                          |   rows |   time_ms |
 |:---------------------------------|:---------------------------------------------------------------------------------------------------------------------|-------:|----------:|
-| q01_category_revenue             | [JOIN + GROUP BY] Kateqoriyalar üzrə satış həcmi, gəlir və gəlirdəki pay                                             |     10 |      38.6 |
-| q02_monthly_revenue              | [GROUP BY + tarix funksiyaları] Aylıq gəlir, sifariş sayı və orta çek                                                |     24 |       6   |
-| q03_loyal_customers_having       | [JOIN + GROUP BY + HAVING] 8-dən çox çatdırılmış sifarişi və 3000 AZN-dən çox xərci olan müştərilər                  |     70 |      10.1 |
-| q04_city_payment_having          | [JOIN + GROUP BY + HAVING] Şəhər və ödəniş üsulu üzrə — 50-dən çox uğurlu ödəniş olan kombinasiyalar                 |     32 |      13   |
-| q05_top_customers_cte            | [CTE] Müştəri seqmentasiyası (RFM-ə bənzər): son alış, tezlik və pul dəyəri                                          |      5 |      12   |
-| q06_products_above_category_avg  | [Korrelyasiyalı Subquery] Öz kateqoriyasının orta qiymətindən baha olan və ən azı 20 dəfə satılan məhsullar          |     20 |      19.1 |
-| q07_customers_above_avg_subquery | [Subquery IN / skalyar] Orta müştəri xərcindən 3 dəfə çox xərcləyən müştərilərin şəhər üzrə sayı                     |     10 |      12.7 |
-| q08_yoy_growth_cte               | [CTE + LAG] Kateqoriyalar üzrə illik gəlir və illik artım (YoY) faizi                                                |     20 |      33.8 |
-| q09_payment_methods              | [JOIN + GROUP BY] Ödəniş üsulları üzrə uğur, uğursuzluq və geri qaytarma göstəriciləri                               |      6 |       8.2 |
-| q10_top_products_per_category    | [CTE + ROW_NUMBER] Hər kateqoriyada gəlirə görə ilk 3 məhsul                                                         |     30 |      39.3 |
-| q11_cancellation_by_category     | [LEFT JOIN + GROUP BY + HAVING + Subquery] Ləğv/geri qaytarma nisbəti ümumi orta nisbətdən yüksək olan kateqoriyalar |      3 |      33.9 |
-| q12_age_group_analysis           | [CTE + CASE] Yaş qrupları və cins üzrə alış davranışı                                                                |     10 |      22.2 |
+| q01_category_revenue             | [JOIN + GROUP BY] Kateqoriyalar üzrə satış həcmi, gəlir və gəlirdəki pay                                             |     10 |      37.5 |
+| q02_monthly_revenue              | [GROUP BY + tarix funksiyaları] Aylıq gəlir, sifariş sayı və orta çek                                                |     24 |       4.7 |
+| q03_loyal_customers_having       | [JOIN + GROUP BY + HAVING] 8-dən çox çatdırılmış sifarişi və 3000 AZN-dən çox xərci olan müştərilər                  |     70 |       6.7 |
+| q04_city_payment_having          | [JOIN + GROUP BY + HAVING] Şəhər və ödəniş üsulu üzrə — 50-dən çox uğurlu ödəniş olan kombinasiyalar                 |     32 |       6.9 |
+| q05_top_customers_cte            | [CTE] Müştəri seqmentasiyası (RFM-ə bənzər): son alış, tezlik və pul dəyəri                                          |      5 |       7.7 |
+| q06_products_above_category_avg  | [Korrelyasiyalı Subquery] Öz kateqoriyasının orta qiymətindən baha olan və ən azı 20 dəfə satılan məhsullar          |     20 |       8.5 |
+| q07_customers_above_avg_subquery | [Subquery IN / skalyar] Orta müştəri xərcindən 3 dəfə çox xərcləyən müştərilərin şəhər üzrə sayı                     |     10 |       6.7 |
+| q08_yoy_growth_cte               | [CTE + LAG] Kateqoriyalar üzrə illik gəlir və illik artım (YoY) faizi                                                |     20 |      20.7 |
+| q09_payment_methods              | [JOIN + GROUP BY] Ödəniş üsulları üzrə uğur, uğursuzluq və geri qaytarma göstəriciləri                               |      6 |       4.8 |
+| q10_top_products_per_category    | [CTE + ROW_NUMBER] Hər kateqoriyada gəlirə görə ilk 3 məhsul                                                         |     30 |      23.9 |
+| q11_cancellation_by_category     | [LEFT JOIN + GROUP BY + HAVING + Subquery] Ləğv/geri qaytarma nisbəti ümumi orta nisbətdən yüksək olan kateqoriyalar |      3 |      26.5 |
+| q12_age_group_analysis           | [CTE + CASE] Yaş qrupları və cins üzrə alış davranışı                                                                |     10 |      14.2 |

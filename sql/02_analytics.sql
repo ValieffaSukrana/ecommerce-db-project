@@ -78,9 +78,9 @@ WITH customer_stats AS (
 ),
 scored AS (
     SELECT cs.*,
-           NTILE(4) OVER (ORDER BY last_order)  AS r_score,
-           NTILE(4) OVER (ORDER BY frequency)   AS f_score,
-           NTILE(4) OVER (ORDER BY monetary)    AS m_score
+           NTILE(4) OVER (ORDER BY last_order, customer_id) AS r_score,
+           NTILE(4) OVER (ORDER BY frequency, customer_id)  AS f_score,
+           NTILE(4) OVER (ORDER BY monetary, customer_id)   AS m_score
     FROM customer_stats cs
 ),
 segmented AS (
@@ -145,7 +145,7 @@ WHERE cu.customer_id IN (
                           GROUP BY customer_id) t)
       )
 GROUP BY cu.city
-ORDER BY high_value_customers DESC;
+ORDER BY high_value_customers DESC, cu.city;
 
 
 -- name: q08_yoy_growth_cte

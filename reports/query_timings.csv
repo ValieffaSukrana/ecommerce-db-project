@@ -1,13 +1,13 @@
 ﻿query,description,rows,time_ms
-q01_category_revenue,"[JOIN + GROUP BY] Kateqoriyalar üzrə satış həcmi, gəlir və gəlirdəki pay",10,38.6
-q02_monthly_revenue,"[GROUP BY + tarix funksiyaları] Aylıq gəlir, sifariş sayı və orta çek",24,6.0
-q03_loyal_customers_having,[JOIN + GROUP BY + HAVING] 8-dən çox çatdırılmış sifarişi və 3000 AZN-dən çox xərci olan müştərilər,70,10.1
-q04_city_payment_having,[JOIN + GROUP BY + HAVING] Şəhər və ödəniş üsulu üzrə — 50-dən çox uğurlu ödəniş olan kombinasiyalar,32,13.0
-q05_top_customers_cte,"[CTE] Müştəri seqmentasiyası (RFM-ə bənzər): son alış, tezlik və pul dəyəri",5,12.0
-q06_products_above_category_avg,[Korrelyasiyalı Subquery] Öz kateqoriyasının orta qiymətindən baha olan və ən azı 20 dəfə satılan məhsullar,20,19.1
-q07_customers_above_avg_subquery,[Subquery IN / skalyar] Orta müştəri xərcindən 3 dəfə çox xərcləyən müştərilərin şəhər üzrə sayı,10,12.7
-q08_yoy_growth_cte,[CTE + LAG] Kateqoriyalar üzrə illik gəlir və illik artım (YoY) faizi,20,33.8
-q09_payment_methods,"[JOIN + GROUP BY] Ödəniş üsulları üzrə uğur, uğursuzluq və geri qaytarma göstəriciləri",6,8.2
-q10_top_products_per_category,[CTE + ROW_NUMBER] Hər kateqoriyada gəlirə görə ilk 3 məhsul,30,39.3
-q11_cancellation_by_category,[LEFT JOIN + GROUP BY + HAVING + Subquery] Ləğv/geri qaytarma nisbəti ümumi orta nisbətdən yüksək olan kateqoriyalar,3,33.9
-q12_age_group_analysis,[CTE + CASE] Yaş qrupları və cins üzrə alış davranışı,10,22.2
+q01_category_revenue,"[JOIN + GROUP BY] Kateqoriyalar üzrə satış həcmi, gəlir və gəlirdəki pay",10,37.5
+q02_monthly_revenue,"[GROUP BY + tarix funksiyaları] Aylıq gəlir, sifariş sayı və orta çek",24,4.7
+q03_loyal_customers_having,[JOIN + GROUP BY + HAVING] 8-dən çox çatdırılmış sifarişi və 3000 AZN-dən çox xərci olan müştərilər,70,6.7
+q04_city_payment_having,[JOIN + GROUP BY + HAVING] Şəhər və ödəniş üsulu üzrə — 50-dən çox uğurlu ödəniş olan kombinasiyalar,32,6.9
+q05_top_customers_cte,"[CTE] Müştəri seqmentasiyası (RFM-ə bənzər): son alış, tezlik və pul dəyəri",5,7.7
+q06_products_above_category_avg,[Korrelyasiyalı Subquery] Öz kateqoriyasının orta qiymətindən baha olan və ən azı 20 dəfə satılan məhsullar,20,8.5
+q07_customers_above_avg_subquery,[Subquery IN / skalyar] Orta müştəri xərcindən 3 dəfə çox xərcləyən müştərilərin şəhər üzrə sayı,10,6.7
+q08_yoy_growth_cte,[CTE + LAG] Kateqoriyalar üzrə illik gəlir və illik artım (YoY) faizi,20,20.7
+q09_payment_methods,"[JOIN + GROUP BY] Ödəniş üsulları üzrə uğur, uğursuzluq və geri qaytarma göstəriciləri",6,4.8
+q10_top_products_per_category,[CTE + ROW_NUMBER] Hər kateqoriyada gəlirə görə ilk 3 məhsul,30,23.9
+q11_cancellation_by_category,[LEFT JOIN + GROUP BY + HAVING + Subquery] Ləğv/geri qaytarma nisbəti ümumi orta nisbətdən yüksək olan kateqoriyalar,3,26.5
+q12_age_group_analysis,[CTE + CASE] Yaş qrupları və cins üzrə alış davranışı,10,14.2
