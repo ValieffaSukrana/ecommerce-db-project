@@ -1,0 +1,7 @@
+﻿payment_method,total_payments,completed,failed,refunded,success_rate_pct,avg_amount
+card,3841,3249,388,204,84.59,523.15
+cash_on_delivery,1761,1474,204,83,83.7,501.46
+installment,1088,945,100,43,86.86,574.94
+e_wallet,644,543,64,37,84.32,553.63
+bank_transfer,640,528,75,37,82.5,561.96
+unknown,20,17,2,1,85.0,343.6

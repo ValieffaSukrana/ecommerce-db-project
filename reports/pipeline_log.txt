@@ -1,0 +1,181 @@
+
+======================================================================
+[1/6] Dataset generasiyası
+======================================================================
+Xam məlumatlar yaradıldı: C:\Users\Sukrane\Desktop\praktikum serbest is\ecommerce-db-project\data\raw
+  categories :     10
+  customers  :   2040
+  products   :    300
+  orders     :   8025
+  order_items:  16847
+  payments   :   8000
+  CƏMİ       :  35222
+--> 4.4 s
+
+======================================================================
+[2/6] Təmizləmə və ilkin emal
+======================================================================
+=== Xam məlumatların profili ===
+
+[categories] sətir=10, sütun=2, tam təkrar=0
+
+[customers] sətir=2040, sütun=9, tam təkrar=40
+  boş dəyərlər: {'email': 30, 'phone': 30}
+
+[products] sətir=300, sütun=7, tam təkrar=0
+  boş dəyərlər: {'unit_price': 6}
+
+[orders] sətir=8025, sütun=5, tam təkrar=25
+
+[order_items] sətir=16847, sütun=6, tam təkrar=0
+  boş dəyərlər: {'unit_price': 207}
+
+[payments] sətir=8000, sütun=6, tam təkrar=0
+  boş dəyərlər: {'payment_method': 20}
+
+=== Təmizləmə jurnalı ===
+      table                                              check  before  after  removed_or_fixed                             note
+  customers                                tam təkrar sətirlər    2040   2000                40                                 
+  customers                                 təkrar customer_id    2000   2000                 0                                 
+  customers               şəhər adlarının standartlaşdırılması     120      0               120 BAKI / boşluqlu adlar düzəldildi
+  customers                       boş email (saxlanıldı, NULL)      30     30                 0                                 
+  customers                     boş telefon (saxlanıldı, NULL)      30     30                 0                                 
+   products boş unit_price (kateqoriya medianı ilə dolduruldu)       6      0                 6                                 
+   products                          mövcud olmayan kateqoriya     300    300                 0                                 
+     orders                                tam təkrar sətirlər    8025   8000                25                                 
+     orders                        mövcud olmayan müştəri (FK)    8000   8000                 0                                 
+order_items                                tam təkrar sətirlər   16847  16847                 0                                 
+order_items                               mənfi / sıfır miqdar   16847  16822                25                                 
+order_items               mövcud olmayan məhsul / sifariş (FK)   16822  16817                 5                                 
+order_items               boş unit_price (kataloq qiyməti ilə)     207      0               207                                 
+     orders                 sətirləri olmayan (boş) sifarişlər    8000   7994                 6                                 
+   payments                                tam təkrar sətirlər    8000   8000                 0                                 
+   payments                     boş payment_method ('unknown')      20      0                20                                 
+   payments                        mövcud olmayan sifariş (FK)    8000   7994                 6                                 
+   payments        məbləğ təmiz sətirlərdən yenidən hesablandı     756      0               756                                 
+
+=== Təmiz cədvəllər ===
+  categories  :     10
+  customers   :   2000
+  products    :    300
+  orders      :   7994
+  order_items :  16817
+  payments    :   7994
+  CƏMİ        :  35115
+Saxlanıldı: C:\Users\Sukrane\Desktop\praktikum serbest is\ecommerce-db-project\data\processed
+--> 1.6 s
+
+======================================================================
+[3/6] NumPy statistikası
+======================================================================
+=== NumPy statistikası ===
+                        göstərici   say    orta  median     std  dispersiya  min     Q1      Q3      max     IQR  variasiya_əmsalı_%  asimmetriya  kənar_dəyərlər
+            Sifariş məbləği (AZN)  7994  530.54  182.30  866.16   750238.94 5.46  66.69  598.16  9890.53  531.47              163.26        3.476             854
+Çatdırılmış sifariş məbləği (AZN)  5662  525.56  179.53  864.88   748009.01 5.86  67.04  587.26  9890.53  520.23              164.56        3.545             614
+         Sətir üzrə miqdar (ədəd) 16817    1.87    2.00    1.05        1.09 1.00   1.00    2.00     4.00    1.00               55.91        0.905            2061
+              Sətir məbləği (AZN) 16817  252.19   63.94  559.63   313185.32 5.31  30.00  175.49  7729.04  145.49              221.91        4.974            2555
+             Məhsul qiyməti (AZN)   300  166.27   49.45  295.83    87515.59 6.07  23.84  108.90  1932.26   85.06              177.92        3.189              59
+    Müştəri üzrə ümumi xərc (AZN)  1775 1676.47  900.02 2046.26  4187198.22 8.79 295.21 2339.74 19764.05 2044.54              122.06        2.434             104
+
+Qiymət–miqdar korrelyasiyası (Pearson r): -0.007
+
+=== Endirim səviyyəsi üzrə ===
+ endirim  sətir_sayı  orta_sətir_məbləği
+    0.00        7209              266.72
+    0.05        2366              269.46
+    0.10        2352              248.59
+    0.15        2464              228.71
+    0.20        2426              219.51
+--> 0.1 s
+
+======================================================================
+[4/6] Pandas groupby / pivot_table
+======================================================================
+=== Kateqoriya üzrə (groupby) ===
+                  sifariş_sayı  satılan_ədəd       gəlir  orta_sətir
+category_name                                                       
+Elektronika               1155          2321  1680939.61     1341.53
+Məişət texnikası           650          1267   500283.62      730.34
+Ayaqqabı                  1094          2170   241165.50      204.55
+İdman                     1237          2516   148424.53      109.54
+Ev və bağ                 1017          2029   125218.81      113.32
+Oyuncaq                   1423          2963   100368.97       64.17
+Geyim                      649          1263    59588.86       86.74
+Kitab                     1710          3617    54226.82       27.87
+Kosmetika                  951          1923    41205.01       40.24
+Ərzaq                     1018          2095    24311.41       22.22
+
+=== Şəhər üzrə (groupby) ===
+               müştəri_sayı       gəlir
+shipping_city                          
+Bakı                    765  1225694.75
+Sumqayıt                187   310487.31
+Gəncə                   185   297539.30
+Şəki                     96   177929.65
+Qəbələ                   98   176485.03
+Lənkəran                106   174324.82
+Quba                     88   169029.76
+Naxçıvan                 75   160304.26
+Şirvan                   73   154646.51
+Mingəçevir              102   129291.75
+
+=== Kateqoriya × il (pivot_table) ===
+year                    2024        2025        Cəmi
+category_name                                       
+Ayaqqabı           111474.69   129690.81   241165.50
+Elektronika        780656.43   900283.18  1680939.61
+Ev və bağ           53956.83    71261.98   125218.81
+Geyim               27406.13    32182.73    59588.86
+Kitab               24603.78    29623.04    54226.82
+Kosmetika           16016.69    25188.32    41205.01
+Məişət texnikası   232789.55   267494.07   500283.62
+Oyuncaq             45560.85    54808.12   100368.97
+İdman               63139.85    85284.68   148424.53
+Ərzaq               10756.12    13555.29    24311.41
+Cəmi              1366360.92  1609372.22  2975733.14
+--> 0.3 s
+
+======================================================================
+[5/6] PostgreSQL-ə yükləmə
+======================================================================
+Sxem yaradılır: C:\Users\Sukrane\Desktop\praktikum serbest is\ecommerce-db-project\sql\01_schema.sql
+  categories       10 sətir  (0.03 s)
+  customers      2000 sətir  (0.73 s)
+  products        300 sətir  (0.14 s)
+  orders         7994 sətir  (1.64 s)
+  order_items   16817 sətir  (3.89 s)
+  payments       7994 sətir  (2.00 s)
+
+Bütövlük yoxlanışı:
+  Sətirləri olmayan sifariş       : 0
+  Ödənişi olmayan sifariş         : 0
+  total_amount ≠ sətirlərin cəmi  : 0
+
+Bazada cəmi qeyd: 35115
+--> 8.8 s
+
+======================================================================
+[6/6] SQL təhlili, qrafiklər və hesabat
+======================================================================
+12 analitik sorğu icra olunur:
+  q01_category_revenue                   10 sətir     38.6 ms
+  q02_monthly_revenue                    24 sətir      6.0 ms
+  q03_loyal_customers_having             70 sətir     10.1 ms
+  q04_city_payment_having                32 sətir     13.0 ms
+  q05_top_customers_cte                   5 sətir     12.0 ms
+  q06_products_above_category_avg        20 sətir     19.1 ms
+  q07_customers_above_avg_subquery       10 sətir     12.7 ms
+  q08_yoy_growth_cte                     20 sətir     33.8 ms
+  q09_payment_methods                     6 sətir      8.2 ms
+  q10_top_products_per_category          30 sətir     39.3 ms
+  q11_cancellation_by_category            3 sətir     33.9 ms
+  q12_age_group_analysis                 10 sətir     22.2 ms
+
+Qrafiklər qurulur...
+
+KPI: {'orders': 5662.0, 'revenue': 2975733.14, 'aov': 525.56, 'customers': 1775.0, 'repeat_pct': 74.2, 'lost_pct': 15.49}
+Hesabat: C:\Users\Sukrane\Desktop\praktikum serbest is\ecommerce-db-project\reports\sales_report.xlsx
+Qrafiklər: C:\Users\Sukrane\Desktop\praktikum serbest is\ecommerce-db-project\reports\figures
+--> 4.2 s
+
+Hazırdır. Ümumi müddət: 19.5 s
